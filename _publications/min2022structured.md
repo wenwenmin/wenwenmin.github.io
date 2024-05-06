@@ -1,5 +1,5 @@
 ---
-title: "Structured Sparse Non-negative Matrix Factorization with $\ell_{2,0}$-Norm"
+title: "Structured Sparse Non-negative Matrix Factorization with $\ell _ {2, 0} $-Norm"
 collection: publications
 permalink: /publication/min2022structured
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
