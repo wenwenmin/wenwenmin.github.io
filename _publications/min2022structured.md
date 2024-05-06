@@ -1,10 +1,9 @@
 ---
-title: "Structured Sparse Non-negative Matrix Factorization with $\ell _ {2, 0} $-Norm"
+title: "Structured Sparse Non-negative Matrix Factorization with L20-Norm"
 collection: publications
 permalink: /publication/min2022structured
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Min, Wenwen, et al. "Structured Sparse Non-negative Matrix Factorization with $\ell _ {2, 0} $-Norm." IEEE Transactions on Knowledge and Data Engineering (2022).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9893402'
+citation: 'Min, Wenwen, et al. "Structured Sparse Non-negative Matrix Factorization with L20-Norm." IEEE Transactions on Knowledge and Data Engineering (2022).'
 ---
