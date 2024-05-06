@@ -7,9 +7,9 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
-\*corresponding author
-
 {% include base_path %}
+
+\*corresponding author
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
