@@ -2,6 +2,7 @@
 title: "Structured Sparse Non-negative Matrix Factorization with L20-Norm"
 collection: publications
 permalink: /publication/min2022structured
+excerpt:
 date: 2023
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9893402'
