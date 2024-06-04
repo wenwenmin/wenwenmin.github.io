@@ -27,14 +27,14 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kunming, Yunnan, China"
   employer         : "Yunnan University"
-  uri              : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
+  uri              : #URL 
   email            : "minwenwen@aliyun.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
