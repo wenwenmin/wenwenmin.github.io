@@ -55,7 +55,7 @@ redirect_from:
   33(8):3842-3856, 2022
   (中科院一区，CCF B类期刊, IF=14.255)<br>
   
--__Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*. 
+- __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*. 
   TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
   PLoS Computational Biology, 
   17(6): e1009044, 2021 
