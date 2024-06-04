@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software"
+title: "软件列表"
 permalink: /software/
 author_profile: true
 ---
@@ -11,14 +11,9 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-<!--
----
-layout: archive
-title: "软件列表"
-permalink: /software/
-author_profile: true
----
 
+
+<!--
 
 ## STMask [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
 <!-- 标题 -->
