@@ -26,39 +26,51 @@ redirect_from:
 <font face="楷体">
 [1] W. Min* (闵文文), T. Xu, X. Wan, TH. Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm . IEEE Transactions on Knowledge and Data Engineering, 35(8):8584-8595, 2023 （中国计算机学会推荐A刊）
 </font>
+
 <font face="楷体">
 [2] W. Min (闵文文), J. Liu*, S. Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 33(2): 536-550, 2021（中国计算机学会推荐A刊）
 </font>
+
 <font face="楷体">
 [3] W. Min (闵文文), X. Wan, TH. Chang, S. Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. IEEE Transactions on Neural Networks and Learning Systems, 33(8):3842 -3856, 2022 (中科院大类一区，中国自动化学会推荐A刊)
 </font>
+
 <font face="楷体">
 [4] W. Min (闵文文), TH. Chang, S. Zhang*, X. Wan*. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLoS Computational Biology, 17(6): e1009044, 2021 (中国自动化学会推荐A刊)
 </font>
+
 <font face="楷体">
 [5] W. Min (闵文文), J. Liu*, S. Zhang*. Edge-group sparse PCA for network-guided high dimensional data analysis. Bioinformatics, vol.34, no.20, pp.3479-3487, 2018 （中国自动化学会推荐A刊）
 </font>
+
 <font face="楷体">
 [6] W. Min (闵文文), J. Liu*, S. Zhang*. Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery. IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol.15, no.3, pp.944-953, 2018（中国计算机学会推荐B刊）
 </font>
+
 <font face="楷体">
 [7] W. Min (闵文文), J. Liu*, F. Luo, S. Zhang*. A two-stage method to identify joint modules from matched microRNA and mRNA expression data. IEEE Transactions on Nanobioscience, vol.15, no.4, pp.362-370, 2016 (中国自动化学会推荐B刊)
 </font>
+
 <font face="楷体">
 [8] W. Min (闵文文), J. Liu*, Fei Luo, S. Zhang*. A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer. IEEE International Conference on Bioinformatics and Biomedicine, Washington, DC, 2015.11.9- 2015.11.12 (中国计算机学会推荐B类会议）
 </font>
+
 <font face="楷体">
 [9] W. Min (闵文文), J. Liu*, S. Zhang. Sparse weighted canonical correlation Analysis. Chinese Journal of Electronics (电子学报英文版) vol.27, no.3, pp.459-466, 2018 （中国计算机学会推荐Top I类期刊）
 </font>
+
 <font face="楷体">
 [10] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and Wenwe
 </font>
+
 <font face="楷体">
 [10] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and Wenwen Min(学生一作, 本人通信). Multimodal attention-based variational autoencoder for clinical risk prediction. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023 (CCF B类会议, 接收率19%)
 </font>
+
 <font face="楷体">
 [11] Xiaoyu Li, Wenwen Min(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang. TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023 (CCF B类会议, 接收率19%)
 </font>
+
 <font face="楷体">
 [12] Weihua Zheng+, Wenwen Min+ (共一作) and Shunfang Wang. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data. Bioinformatics, 39(12):btad731, 2023 (CCF B期刊, Top期刊)
 </font>
