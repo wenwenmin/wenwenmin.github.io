@@ -12,6 +12,6 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% include archive-single.html %}
 {% endfor %}
 
