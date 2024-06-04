@@ -35,7 +35,11 @@ redirect_from:
 (1) 矩阵张量优化方法研究<br>
 (2) 多视图无监督聚类方法研究<br> 
 
-## 三、代表性论文
+## 三、代表性论文<br>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
+
+\*corresponding author and \# co-first author
+
 <!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
