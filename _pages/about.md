@@ -32,8 +32,13 @@ redirect_from:
 (3) 多视图无监督聚类方法研究<br> 
 
 ## 三、代表性论文
-- W. Min* , T. Xu, X. Wan, TH. Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm. IEEE Transactions on Knowledge and Data Engineering, 35(8):8584-8595, 2023 （CCF A类期刊）<br>
-- W. Min, J. Liu*, S. Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 33(2): 536-550, 2021（CCF A类期刊）<br>
+- W. Min* , T. Xu, X. Wan, TH. Chang.
+  Structured Sparse Non-negative Matrix Factorization with L20-Norm.
+  IEEE Transactions on Knowledge and Data Engineering,
+  35(8):8584-8595, 2023 (CCF A类期刊, IF=9.235)<br>
+  
+- W. Min, J. Liu*, S. Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 33(2): 536-550, 2021 (CCF A类期刊, IF=9.235)<br>
+
 - W. Min, X. Wan, TH. Chang, S. Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. IEEE Transactions on Neural Networks and Learning Systems, 33(8):3842 -3856, 2022 (中科院一区，CCF B类期刊)<br>
 
 [4] W. Min, TH. Chang, S. Zhang*, X. Wan*. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLoS Computational Biology, 17(6): e1009044, 2021 (CCF B类期刊)
