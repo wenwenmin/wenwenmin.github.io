@@ -23,13 +23,13 @@ redirect_from:
 -->
 
 ## 研究方向
-### 医学人工智能<br>
-(i) 深度学习在医学图像处理和多模态组学数据融合中的应用研究<br>
-(ii) 机器学习在生物医学多组学数据分析中的应用研究<br>
-### 机器学习理论<br> 
-(i) 深度学习方法研究<br>
-(ii) 矩阵张量优化方法研究<br>
-(iii) 多视图无监督聚类方法研究<br> 
+- 医学人工智能<br>
+(1) 深度学习在医学图像处理和多模态组学数据融合中的应用研究<br>
+(2) 机器学习在生物医学多组学数据分析中的应用研究<br>
+- 机器学习理论<br> 
+(1) 深度学习方法研究<br>
+(2) 矩阵张量优化方法研究<br>
+(3) 多视图无监督聚类方法研究<br> 
 
 ## 代表性论文
 [1] W. Min* (闵文文), T. Xu, X. Wan, TH. Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm . IEEE Transactions on Knowledge and Data Engineering, 35(8):8584-8595, 2023 （中国计算机学会推荐A刊）
