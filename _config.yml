@@ -28,12 +28,12 @@ author:
   location         : "Kunming, Yunnan, China"
   employer         : "Yunnan University"
   uri              : #URL 
-  email            : "minwenwen@aliyun.com" 
+  email            : minwenwen@aliyun.com
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2558-2911"
   researchgate     : "https://www.researchgate.net/profile/Wenwen-Min/research"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2558-2911"
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
