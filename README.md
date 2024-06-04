@@ -43,7 +43,7 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 ## 修改备注
 0 主页网址
-wenwenmin.github.io
+[wenwenmin.github.io](https://wenwenmin.github.io/)
 
 1 修改主页左侧标题（个人照片、学校等）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_config.yml
