@@ -1,6 +1,8 @@
 ---
-title: "软件列表"
+title: "STMask"
+collection: software
 permalink: /software/STMask
+date: 2024-06-04
 ---
 
 ## STMask [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
