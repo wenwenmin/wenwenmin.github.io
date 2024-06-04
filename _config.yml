@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kunming, Yunnan, China"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : # "none@example.org" 
+  employer         : "Yunnan University"
+  uri              : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
+  email            : "minwenwen@aliyun.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
