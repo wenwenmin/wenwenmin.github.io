@@ -1,9 +1,24 @@
 ---
 layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+
+{% include base_path %}
+{% for post in site.software reversed %}
+{% include archive-single.html %}
+{% endfor %}
+
+<!--
+---
+layout: archive
 title: "软件列表"
 permalink: /software/
 author_profile: true
 ---
+
 
 ## STMask [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
 <!-- 标题 -->
@@ -28,3 +43,4 @@ title        = {Dimensionality Reduction and Denoising of Spatial Transcriptomic
 year         = {2024}
 }
 </pre></div>
+-->
