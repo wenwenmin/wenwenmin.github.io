@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-## [STMask is available ] [GitHub] (https://github.com/donghaifang/STMask/tree/main)
+## [STMask is available at] [GitHub](https://github.com/donghaifang/STMask/tree/main)
 <!-- 标题 -->
 ### Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-channel Masked Graph Auto-encoder
 ### 摘要
