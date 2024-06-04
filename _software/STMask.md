@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "软件列表"
-permalink: /software/
-author_profile: true
+permalink: /software/STMask.md
 ---
 
 ## STMask [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
