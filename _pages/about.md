@@ -38,7 +38,7 @@ redirect_from:
 ## 三、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
-<u>\*Corresponding author</u> and </u>\#Co-first author</u>
+<u>\*Corresponding author</u> and <u>\#Co-first author</u>
 
 <!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
