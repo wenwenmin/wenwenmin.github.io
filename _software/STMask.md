@@ -1,6 +1,6 @@
 ---
 title: "软件列表"
-permalink: /software/STMask.md
+permalink: /software/STMask
 ---
 
 ## STMask [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
