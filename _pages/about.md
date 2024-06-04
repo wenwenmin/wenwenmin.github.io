@@ -14,10 +14,12 @@ redirect_from:
 个人简介
 </font>
 2）
+<font face="楷体" color="blue" size=5>这是蓝色5号楷体</font>
 -->
 
 ## 一、个人简介
 &emsp;&emsp;闵文文老师，云南大学信息学院，计算机科学技术系， 副教授。2017年毕业于武汉大学计算机学院，获工学博士学位，2019~2021在香港中文大学（深圳）从事博士后研究工作，2021年12月入选云南大学“东陆青年学者”引进人才，2022年入选云南省“兴滇英才支持计划”青年人才。目前担任中国计算机学会生物信息学专委会委员，中国生物信息学学会 (筹)网络生物学专委会委员，中国运筹学会计算系统生物学分会青年理事，Interdisciplinary Sciences: Computational Life Sciences杂志（中科院二区）青年编辑等。近年来，主持国家基金项目2项，中国博士后面上项目1项，省基础研究项目2项，“兴滇英才支持计划”青年人才项目1项，云南省智能系统与计算重点实验室开放课题（重点项目）1项等。
+<u>文本</u>
 
 <!--近五年主要从事生物信息计算研究，主要课题为“面向癌症组学数据融合的智能方法研究”，提出了多种结构稀疏矩阵和深度学习智能算法，应用于整合分析多种癌症的多尺度组学数据，挖掘癌症异常生物分子功能模块，对于发现癌症靶标具有重要意义。围绕课题的关键科学问题，已取得良好的科研成果，发表20多篇学术论文，其中第一作者或通讯作者发表CCF A类期刊2篇，CCF B类期刊/会议8篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS 2022，Bioinformatics (2018, 2023)，PLoS Computational Biology 2021，IEEE TCBB 2018，IEEE TNB 2016等重要期刊，主持国家基金项目2项，中国博士后面上项目1项，省基础研究项目2项，“兴滇英才支持计划”青年人才项目1项，云南省智能系统与计算重点实验室开放课题（重点项目）1项等。
 -->
@@ -34,7 +36,7 @@ redirect_from:
 ## 三、代表性论文
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, TH. Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
-  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,<u>文本</u>
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   35(8):8584-8595, 2023 (CCF A类期刊, IF=9.235)<br>
   
 - W. Min, J. Liu*, S. Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 33(2): 536-550, 2021 (CCF A类期刊, IF=9.235)<br>
