@@ -48,10 +48,13 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 1 修改主页左侧标题（个人照片、学校等）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_config.yml
 
-2 主页的文字（个人简介）
+2 修改条目（可以去除一些条目）
+
+3 闵文文个人主页（可编辑源文件）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/about.md
 
-3 修改条目（可以去除一些条目）
+4 Publications（可编辑源文件）
+https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/publications.md
 https://github.com/wenwenmin/wenwenmin.github.io/edit/master/_data/navigation.yml
 
 
