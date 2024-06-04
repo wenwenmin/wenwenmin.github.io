@@ -66,7 +66,10 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   17(6): e1009044, 2021 
   (CCF B类期刊, IF=4.779)
 
-[5] W. Min, J. Liu*, S. Zhang*. Edge-group sparse PCA for network-guided high dimensional data analysis. Bioinformatics, vol.34, no.20, pp.3479-3487, 2018 （CCF B类期刊）
+- __Wenwen Min__, Juan Liu*, Shihua Zhang*.
+  Edge-group sparse PCA for network-guided high dimensional data analysis.
+  Bioinformatics, vol.34, no.20, pp.3479-3487, 2018
+  (CCF B类期刊, IF=6.931)
 
 [6] W. Min, J. Liu*, S. Zhang*. Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery. IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol.15, no.3, pp.944-953, 2018（CCF B类期刊）
 
