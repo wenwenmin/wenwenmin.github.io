@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Software"
+    url: /software/
     
   - title: "News"
     url: /year-archive/
@@ -18,5 +21,4 @@ main:
 #- title: "cv"
 #    url: /cv/
     
-#- title: "Guide"
-#    url: /markdown/
+
