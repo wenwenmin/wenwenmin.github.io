@@ -24,7 +24,7 @@ redirect_from:
 -->
 
 ## 二、研究方向
-闵文文老师长期从事人工智能算法(基于Transformer深度方法、图神经网络、深度扩散模型、对比学习、矩阵张量方法等)及其在医学大数据分析应用方面的研究。主要研究方法如下：
+闵文文老师长期从事人工智能算法(基于Transformer的深度方法、图神经网络、深度扩散模型、对比学习、矩阵张量优化方法等)及其在医学大数据分析方面的研究。主要研究方法如下：
 - 医学人工智能<br>
 (1) 深度学习在医学图像处理和多模态组学数据融合中的应用研究<br>
 (2) 机器学习在生物医学多组学数据分析中的应用研究<br>
@@ -34,6 +34,7 @@ redirect_from:
 (3) 多视图无监督聚类方法研究<br> 
 
 ## 三、代表性论文
+<!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, TH. Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
