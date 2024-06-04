@@ -55,7 +55,6 @@ https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/about.md
 
 4 Publications（可编辑源文件）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/publications.md
-https://github.com/wenwenmin/wenwenmin.github.io/edit/master/_data/navigation.yml
 
 
 
