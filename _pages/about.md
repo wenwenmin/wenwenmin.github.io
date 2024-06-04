@@ -34,7 +34,7 @@ redirect_from:
 ## 三、代表性论文
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, TH. Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
-  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,<u>文本</u>
   35(8):8584-8595, 2023 (CCF A类期刊, IF=9.235)<br>
   
 - W. Min, J. Liu*, S. Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 33(2): 536-550, 2021 (CCF A类期刊, IF=9.235)<br>
