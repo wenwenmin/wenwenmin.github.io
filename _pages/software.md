@@ -24,8 +24,8 @@ In this paper, we propose an efficient self-supervised learning method utilizing
 
 
 ### 论文所处状态
-投稿PLoS CB 2024.5<br>
-[biorxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
+- 投稿PLoS CB 2024.5<br>
+- [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
 
 ### 引用
 <p>The corresponding BiBTeX citation are given below:</p>
