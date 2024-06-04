@@ -100,6 +100,11 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-- Weihua Zheng#, __Wenwen Min#__ and Shunfang Wang. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+- Weihua Zheng#, __Wenwen Min#__, Shunfang Wang. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
   __<u>Bioinformatics</u>__,
-  39(12):btad731, 2023 (CCF B类期刊)
+  39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
+
+- Weihua Zheng#, __Wenwen Min#__, Shunfang Wang. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+  __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
+  2024 (CCF C类期刊, IF=7.7)
+
