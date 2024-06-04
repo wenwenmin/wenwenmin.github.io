@@ -54,13 +54,17 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   33(2):536-550, 2021
   (CCF A类期刊, IF=9.235)<br>
 
-- W. Min, X. Wan, TH. Chang, S. Zhang*.
+- __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
   A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
-  IEEE Transactions on Neural Networks and Learning Systems,
-  33(8):3842 -3856, 2022
-  (中科院一区，CCF B类期刊)<br>
-
-[4] W. Min, TH. Chang, S. Zhang*, X. Wan*. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLoS Computational Biology, 17(6): e1009044, 2021 (CCF B类期刊)
+  __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__,
+  33(8):3842-3856, 2022
+  (中科院一区，CCF B类期刊, IF=14.255)<br>
+  
+- __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*. 
+  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
+  __<u>PLoS Computational Biology</u>__, 
+  17(6): e1009044, 2021 
+  (CCF B类期刊, IF=4.779)
 
 [5] W. Min, J. Liu*, S. Zhang*. Edge-group sparse PCA for network-guided high dimensional data analysis. Bioinformatics, vol.34, no.20, pp.3479-3487, 2018 （CCF B类期刊）
 
