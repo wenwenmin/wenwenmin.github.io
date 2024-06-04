@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "software"
+title: "Software"
 permalink: /software/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
+You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
 \*corresponding author
 
