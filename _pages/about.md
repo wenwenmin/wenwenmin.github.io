@@ -52,7 +52,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   (CCF A类期刊, IF=9.235)<br>
   
 <!-- 论文2 --> 
-- __Wenwen Min__, Juan Liu*, Shihua Zhang*.
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   33(2):536-550, 2021
@@ -64,13 +64,13 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   33(8):3842-3856, 2022
   (中科院一区，CCF B类期刊, IF=14.255)<br>
   
-- __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*. 
+- __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
   TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
   __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 
   (CCF B类期刊, IF=4.779)
 
-- __Wenwen Min__, Juan Liu*, Shihua Zhang*.
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Edge-group sparse PCA for network-guided high dimensional data analysis.
   __<u>Bioinformatics</u>__,
   34(20):3479-3487, 2018
