@@ -47,10 +47,14 @@ redirect_from:
 - __Wenwen Min__, Juan Liu*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
-  33(2):536-550,2021
+  33(2):536-550, 2021
   (CCF A类期刊, IF=9.235)<br>
 
-- W. Min, X. Wan, TH. Chang, S. Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. IEEE Transactions on Neural Networks and Learning Systems, 33(8):3842 -3856, 2022 (中科院一区，CCF B类期刊)<br>
+- W. Min, X. Wan, TH. Chang, S. Zhang*.
+  A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
+  IEEE Transactions on Neural Networks and Learning Systems,
+  33(8):3842 -3856, 2022
+  (中科院一区，CCF B类期刊)<br>
 
 [4] W. Min, TH. Chang, S. Zhang*, X. Wan*. TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. PLoS Computational Biology, 17(6): e1009044, 2021 (CCF B类期刊)
 
