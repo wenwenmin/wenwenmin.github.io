@@ -38,7 +38,7 @@ redirect_from:
 ## 三、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
-<u>\*Corresponding author</u> and <u>\#Co-first author</u>
+<u>*Corresponding author</u> and <u>#Co-first author</u>
 
 <!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
@@ -63,24 +63,43 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*. 
   TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
   __<u>PLoS Computational Biology</u>__, 
-  17(6): e1009044, 2021 
+  17(6):e1009044, 2021 
   (CCF B类期刊, IF=4.779)
 
 - __Wenwen Min__, Juan Liu*, Shihua Zhang*.
   Edge-group sparse PCA for network-guided high dimensional data analysis.
-  Bioinformatics, vol.34, no.20, pp.3479-3487, 2018
+  __<u>Bioinformatics</u>__,
+  34(20):3479-3487, 2018
   (CCF B类期刊, IF=6.931)
 
-[6] W. Min, J. Liu*, S. Zhang*. Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery. IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol.15, no.3, pp.944-953, 2018（CCF B类期刊）
+- __Wenwen Min__, Juan Liu*, Shihua Zhang*.
+  Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery.
+    __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
+  15(3):944-953, 2018
+  (CCF B类期刊, IF=4.5)
 
-[7] W. Min, J. Liu*, F. Luo, S. Zhang*. A two-stage method to identify joint modules from matched microRNA and mRNA expression data. IEEE Transactions on Nanobioscience, vol.15, no.4, pp.362-370, 2016 (中国自动化学会推荐B刊)
+- __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
+  A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
+    __<u>IEEE Transactions on Nanobioscience</u>__,
+  15(4):362-370, 2016 
 
-[8] W. Min, J. Liu*, Fei Luo, S. Zhang*. A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer. IEEE International Conference on Bioinformatics and Biomedicine, Washington, DC, 2015.11.9- 2015.11.12 (CCF B类会议, 接收率19%）
+- __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
+  A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
+    __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
 
-[9] W. Min, J. Liu*, S. Zhang. Sparse weighted canonical correlation Analysis. Chinese Journal of Electronics (电子学报英文版) vol.27, no.3, pp.459-466, 2018 （中国计算机学会推荐Top I类期刊）
+- __Wenwen Min__, Juan Liu*, Shihua Zhang*.
+  Sparse weighted canonical correlation Analysis.
+  __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
+  27(3):459-466, 2018 （CCF Top I类期刊）
 
-[10] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and Wenwen Min*(学生一作, 本人通信). Multimodal attention-based variational autoencoder for clinical risk prediction. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023 (CCF B类会议, 接收率19%)
+- Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作, 本人通信). 
+  Multimodal attention-based variational autoencoder for clinical risk prediction. 
+  __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-[11] Xiaoyu Li, Wenwen Min*(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang. TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023 (CCF B类会议, 接收率19%)
+- Xiaoyu Li, __Wenwen Min*__(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
+  TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
+  __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-[12] Weihua Zheng#, Wenwen Min# (共一作) and Shunfang Wang. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data. Bioinformatics, 39(12):btad731, 2023 (CCF B类期刊)
+- Weihua Zheng#, __Wenwen Min#__ and Shunfang Wang. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+  __<u>Bioinformatics</u>__,
+  39(12):btad731, 2023 (CCF B类期刊)
