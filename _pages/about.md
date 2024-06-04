@@ -39,7 +39,7 @@ redirect_from:
 <!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
-  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
   (CCF A类期刊, IF=9.235)<br>
   
