@@ -25,7 +25,7 @@ Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
 
 ### 论文状态
 - 投稿TNNLS 2024.4<br>
-- [atXiv](https://arxiv.org/abs/2403.10863)
+- [arXiv](https://arxiv.org/abs/2403.10863)
 
 ### 论文引用
 <p>The corresponding BiBTeX citation are given below:</p>
