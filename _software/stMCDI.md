@@ -18,8 +18,9 @@ Compared with baseline methods, our model achieves state-of-the-art performance 
 The results obtained from spatial transcriptomics datasets elucidate the performance of our methods relative to existing approaches.
 Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
 <!-- 论文模型图 -->
-
-![](C:\Users\DELL\Desktop\发表论文\stMCDI.png)
+<p align="center"> 
+<img src="../images/stMCDI.png">
+</p>
 
 
 ### 论文状态
