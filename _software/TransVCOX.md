@@ -1,5 +1,5 @@
 ---
-title: "MAVAE"
+title: "TransVCOX"
 collection: software
 permalink: /software/TransVCOX
 date: 2024-06-04
