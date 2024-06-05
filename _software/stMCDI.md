@@ -1,5 +1,5 @@
 ---
-title: "STMask"
+title: "stMCDI"
 collection: software
 permalink: /software/stMCDI
 date: 2024-06-04
