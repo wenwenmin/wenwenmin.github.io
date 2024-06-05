@@ -21,7 +21,6 @@ We find that
 (2) Multi-modal data yields better classification performance than single-modal data; 
 (3) The multi-head attention mechanism improves the decision-making process; 
 (4) Clinical and genetic data are the most important modal data.
-Our implementation of MAVAE is available at \url{https://github.com/wenwenmin/MAVAE}.
 <!-- 论文模型图 -->
 
 <p align="center"> 
