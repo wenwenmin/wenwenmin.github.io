@@ -2,7 +2,7 @@
 title: "MAVAE"
 collection: software
 permalink: /software/MAVAE
-date: 2024-06-04
+date: 2024-06-01
 ---
 
 <!-- 标题 -->
