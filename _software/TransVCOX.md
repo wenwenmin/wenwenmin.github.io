@@ -15,10 +15,12 @@ Rigorous tests on eight unique cancer datasets from TCGA revealed:
 (2) Pre-training significantly reduces model overfitting and enhances performance.
 (3) VAE encoding, compared to positional encoding, offers a richer decision-making foundation.
 (4) The performance boost doesn't linearly correlate with the addition of Transformer blocks.
-These findings underline TransVCOX's promising capability for predicting cancer patients' survival risks using multi-omics data. The implementation can be accessed at \url{https://github.com/wenwenmin/TransVCOX}.
+These findings underline TransVCOX's promising capability for predicting cancer patients' survival risks using multi-omics data. 
 <!-- 论文模型图 -->
 
-![](C:\Users\DELL\Desktop\发表论文\TransVCOX.png)
+<p align="center"> 
+<img src="../images/TransVCOX.png">
+</p>
 
 
 ### 论文状态
