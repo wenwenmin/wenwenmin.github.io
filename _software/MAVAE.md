@@ -24,7 +24,10 @@ We find that
 Our implementation of MAVAE is available at \url{https://github.com/wenwenmin/MAVAE}.
 <!-- 论文模型图 -->
 
-![](C:\Users\DELL\Desktop\发表论文\MAVAE.png)
+<p align="center"> 
+<img src="../images/MAVAE.png">
+</p>
+
 
 
 ### 论文状态
