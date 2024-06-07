@@ -122,7 +122,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 
 ## News
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
-- 2024/05/10: 5 papers are accepted in ISBRA2024 (CCF B, acceptance rate is about 38%)
+- 2024/05/10: 5 papers are accepted in ISBRA2024 (CCF C, acceptance rate is about 38%)
   - "stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement" with 薛帅林（专硕2023级）
   - "Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis" with 方东海（学硕2023级）
   - "Spatial gene expression prediction from histology images with STco" with 史志层（专硕2023级）
