@@ -119,15 +119,20 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 招生要求
   - 坚持不懈的毅力（最看重的品质）
   - 良好的编程、数学、英语能力
-- 目前所带的学生
 
 ## News
-- 2024/05/10: 5 papers are accepted in ISBRA2024 (CCF B, acceptance rate is about 38%).
-  - X
-  - X
-- 2024/05/09: 1 papers is accepted in ICIC2023 (CCF B, acceptance rate is about NA).
-- 2023/12/16: the paper "TsImpute: An accurate two-step imputation method for single-cell RNA-seq data" is accepted in Bioinformatics (CCF B).
-- 2023/10/14: 2 papers are accepted in BIBM2023 (CCF B, acceptance rate is about 19%).
-- 2022/09/10: the paper "Structured Sparse Non-negative Matrix Factorization with L20-Norm" is accepted as a regular paper in IEEE TKDE (CCF A).
+- 2024/05/10: 5 papers are accepted in ISBRA2024 (CCF B, acceptance rate is about 38%)
+  - "stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement" with 薛帅林（专硕2023级）
+  - "Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis" with 方东海（学硕2023级）
+  - "Spatial gene expression prediction from histology images with STco" with 史志层（专硕2023级）
+  - "VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis" with 史鑫源（专硕2023级）
+  - "SpatialCVGAE: Spatial Domain Identification via Consensus Clustering Integrated Variational Graph Autoencoder" with 牛晋云（专硕2022级）
+- 2024/05/09: 1 papers is accepted in ICIC2023 (CCF B, acceptance rate is about NA)
+  - "lobally Convergent Accelerated Algorithms for Multilinear Sparse Logistic Regression with L0-constraints" with 杨伟峰（学硕2022级）
+- 2023/12/16: the paper "TsImpute: An accurate two-step imputation method for single-cell RNA-seq data" is accepted in Bioinformatics (CCF B)
+- 2023/10/14: 2 papers are accepted in BIBM2023 (CCF B, acceptance rate is about 19%)
+  - "TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis" with 李晓宇（学硕2022级）
+  - "Multimodal attention-based variational autoencoder for clinical risk prediction" with 李晓宇（学硕2022级）
+- 2022/09/10: the paper "Structured Sparse Non-negative Matrix Factorization with L20-Norm" is accepted as a regular paper in IEEE TKDE (CCF A)
 - 2021/12/25: Joined Yunnan University.
 
