@@ -51,11 +51,18 @@ https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_config.yml
 2 修改条目（Home, Publications，Software）
 https://github.com/wenwenmin/wenwenmin.github.io/edit/master/_data/navigation.yml
 
-3 闵文文个人主页（可编辑源文件）
+### 个人主页板块
+- Wenwen's Home
+- Publications
+- Software
+- News
+
+3 闵文文个人主页（可编辑源文件）（Wenwen's Home板块）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/about.md
 
-4 Publications（可编辑源文件）
+4 Publications（可编辑源文件）（Publications板块）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/publications.md
 
+5 添加News，可以酌情放到Wenwen's Home板块中
 
 
