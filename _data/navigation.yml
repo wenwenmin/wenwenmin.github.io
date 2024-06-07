@@ -6,8 +6,8 @@ main:
   - title: "Software"
     url: /software/
     
-%  - title: "News"
-%    url: /year-archive/
+#  - title: "News"
+#    url: /year-archive/
 
 #  - title: "Talks"
 #    url: /talks/    
