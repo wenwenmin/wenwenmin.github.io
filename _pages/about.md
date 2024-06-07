@@ -113,4 +113,21 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (CCF C类期刊, IF=7.7)
+  
+## 四、学生培养
+- 本人目前可以招收计算机相关专业的专硕、学硕
+- 招生要求
+  - 坚持不懈的毅力（最看重的品质）
+  - 良好的编程、数学、英语能力
+- 目前所带的学生
+
+## News
+- 2024/05/10: 5 papers are accepted in ISBRA2024 (CCF B, acceptance rate is about 38%).
+  - X
+  - X
+- 2024/05/09: 1 papers is accepted in ICIC2023 (CCF B, acceptance rate is about NA).
+- 2023/12/16: the paper "TsImpute: An accurate two-step imputation method for single-cell RNA-seq data" is accepted in Bioinformatics (CCF B).
+- 2023/10/14: 2 papers are accepted in BIBM2023 (CCF B, acceptance rate is about 19%).
+- 2022/09/10: the paper "Structured Sparse Non-negative Matrix Factorization with L20-Norm" is accepted as a regular paper in IEEE TKDE (CCF A).
+- 2021/12/25: Joined Yunnan University.
 
