@@ -53,7 +53,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
-  (CCF A类期刊, IF=9.235) [PDF,Data,Code] <br>
+  (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402/),PDF,Data,Code] <br>
   
 <!-- 论文2 --> 
 - __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
