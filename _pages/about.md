@@ -53,14 +53,14 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
-  (CCF A类期刊, IF=9.235) [PDF|Data|Code] <br>
+  (CCF A类期刊, IF=9.235) [PDF,Data,Code] <br>
   
 <!-- 论文2 --> 
 - __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   33(2):536-550, 2021
-  (CCF A类期刊, IF=9.235)<br>
+  (CCF A类期刊, IF=9.235) [PDF,Data,Code]<br>
 
 - __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
   A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
