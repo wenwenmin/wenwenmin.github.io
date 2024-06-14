@@ -112,9 +112,9 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   __<u>Bioinformatics</u>__,
   39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
 
-- Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+- Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
-  2024 (CCF C类期刊, IF=7.7)
+  2024 (中科院1区, CCF C类期刊, IF=7.7)
   
 ## 四、学生培养
 - 本人目前可以招收计算机相关专业的专硕、学硕
