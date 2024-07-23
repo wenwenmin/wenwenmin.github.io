@@ -57,7 +57,10 @@ redirect_from:
 
 - Shuailin Xue, Fangfang Zhu, Changmiao Wang, and __Wenwen Min*__. "stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement." ISBRA 2024.
 
-- Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024.
+- XiaoyuLi, __Wenwen Min*__, Shunfang Wang, Changmiao Wang, and Taosheng Xu. "stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation." arXiv preprint arXiv:2403.10863 (2024).
+- Zhen Wang, and __Wenwen Min*__. "Graph Regularized NMF with L20-norm for Unsupervised Feature Learning." arXiv preprint arXiv:2403.10910 (2024).
+
+- Li Yu#, __Wenwen Min#__, Shunfang Wang\*. "Boundary-Aware Gradient Operator Network for Medical Image Segmentation." IEEE Journal of Biomedical and Health Informatics, 2024.
   
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
