@@ -43,7 +43,7 @@ redirect_from:
 (2) 矩阵张量优化方法研究（非凸优化、L20及L0结构稀疏优化、特征选择）<br>
 (3) 多视图无监督聚类方法研究<br>
 
-## 三、近期论文
+## 三、近期论文 (2024)
 
 - __Wenwen Min*__, Donghai Fang, Jinyu Chen, and Shihua Zhang. "Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-Channel Masked Graph Autoencoder." bioRxiv (2024): 2024-05.
 
