@@ -44,9 +44,7 @@ redirect_from:
 (3) 多视图无监督聚类方法研究<br>
 
 ## 三、近期论文 (2024)
-You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
-
-<u>*Corresponding author</u> and <u>#Co-first author</u>
+You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) and <u>*Corresponding author</u> and <u>#Co-first author</u>
 
 - __Wenwen Min*__, Donghai Fang, Jinyu Chen, and Shihua Zhang. "Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-Channel Masked Graph Autoencoder." bioRxiv (2024): 2024-05.
 
