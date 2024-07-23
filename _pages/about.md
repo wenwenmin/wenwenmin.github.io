@@ -45,9 +45,9 @@ redirect_from:
 
 ## 三、近期论文
 
-Wenwen Min, Donghai Fang, Jinyu Chen, and Shihua Zhang. "Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-Channel Masked Graph Autoencoder." bioRxiv (2024): 2024-05.
+- __Wenwen Min*__, Donghai Fang, Jinyu Chen, and Shihua Zhang. "Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-Channel Masked Graph Autoencoder." bioRxiv (2024): 2024-05.
 
-Wenwen Min, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal contrastive learning for spatial gene expression prediction using histology images." arXiv preprint arXiv:2407.08216 (2024).
+- __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal contrastive learning for spatial gene expression prediction using histology images." arXiv preprint arXiv:2407.08216 (2024).
 
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
