@@ -141,6 +141,14 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   - 坚持不懈的毅力（最看重的品质）
   - 良好的编程、数学、英语能力
 
+## 五、专利和软著
+### 专利
+- 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备
+- 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质
+
+### 软著
+- XXX
+
 ## News
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
 - 2024/05/10: 5 papers are accepted in ISBRA 2024 (CCF C, acceptance rate is about 38%)
