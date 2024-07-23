@@ -147,10 +147,12 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质
 - 闵文文，史志层等. 基于组织学图像的空间基因表达水平预测方法、装置及设备
 - 闵文文，王震等. 一种注意力增强深度图嵌入的单细胞RNA-Seq数据聚类方法
-- 闵文文，方东海等.一种基于图神经网络的空间转录组学多切片空间域识别及批次效应去除方法
+- 闵文文，方东海等. 一种基于图神经网络的空间转录组学多切片空间域识别及批次效应去除方法
 
 ### 软著
-- XXX
+- 闵文文，方东海等. 空间转录组学数据聚类软件V1.0
+- 闵文文，闫一诺，史鑫源等. 癌症微生物组数据分析预训练Transformer模型软件V1.0
+- 闵文文，闫一诺，李晓宇等. 基于Transformer和VAE预训练的深度学习生存分析模型软件V1.0
 
 ## News
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
