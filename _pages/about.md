@@ -133,12 +133,6 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
-  
-## 四、学生培养
-- 本人目前可以招收计算机相关专业的专硕、学硕
-- 招生要求
-  - 坚持不懈的毅力（最看重的品质）
-  - 良好的编程、数学、英语能力
 
 ## 五、专利和软著
 ### 专利
@@ -152,6 +146,13 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 闵文文，方东海等. 空间转录组学数据聚类软件V1.0
 - 闵文文，闫一诺，史鑫源等. 癌症微生物组数据分析预训练Transformer模型软件V1.0
 - 闵文文，闫一诺，李晓宇等. 基于Transformer和VAE预训练的深度学习生存分析模型软件V1.0
+
+
+## 学生培养
+- 本人目前可以招收计算机相关专业的专硕、学硕（感兴趣的同学可以给我发邮件）
+- 招生要求
+  - 坚持不懈的毅力（最看重的品质）
+  - 良好的编程、数学、英语能力
 
 ## News
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
