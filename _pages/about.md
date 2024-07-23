@@ -49,6 +49,8 @@ redirect_from:
 
 - __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. "Multimodal contrastive learning for spatial gene expression prediction using histology images." arXiv preprint arXiv:2407.08216 (2024).
 
+- Xiaoyu Li, Fangfang Zhu, and __Wenwen Min*__. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." arXiv preprint arXiv:2407.13182 (2024).
+
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
