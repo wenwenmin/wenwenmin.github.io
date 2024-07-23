@@ -51,6 +51,12 @@ redirect_from:
 
 - Xiaoyu Li, Fangfang Zhu, and __Wenwen Min*__. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." arXiv preprint arXiv:2407.13182 (2024).
 
+- Donghai Fang, Yichen Gao, Zhaoying Wang, Fangfang Zhu, and __Wenwen Min*__. "Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis." ISBRA 2024.
+
+- Zhiceng Shi, Fangfang Zhu, Changmiao Wang, and __Wenwen Min*__. "Spatial Gene Expression Prediction from Histology Images with STco." ISBRA 2024.
+
+- Shuailin Xue, Fangfang Zhu, Changmiao Wang, and __Wenwen Min*__. "stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement." ISBRA 2024.
+
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
