@@ -41,9 +41,12 @@ redirect_from:
 - 机器学习理论<br>
 (1) 深度学习方法研究（基于Transformer的深度方法、图神经网络、扩散模型、对比学习、单细胞大模型等）<br>
 (2) 矩阵张量优化方法研究（非凸优化、L20及L0结构稀疏优化、特征选择）<br>
-(3) 多视图无监督聚类方法研究<br> 
+(3) 多视图无监督聚类方法研究<br>
 
-## 三、代表性论文
+## 三、近期论文
+
+
+## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en)
 
 <u>*Corresponding author</u> and <u>#Co-first author</u>
