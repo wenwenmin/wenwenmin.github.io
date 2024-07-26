@@ -64,7 +64,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   
 - Zhen Wang, and __Wenwen Min*__. "Graph Regularized NMF with L20-norm for Unsupervised Feature Learning." arXiv preprint arXiv:2403.10910 (2024).
 
-- weifeng Yang, and __Wenwen Min*__. "Graph regularized sparse nonnegative Tucker decomposition with ℓ0-constraints for unsupervised learning."  submission to Applied Mathematical Modelling 2024
+- Weifeng Yang, and __Wenwen Min*__. "Graph regularized sparse nonnegative Tucker decomposition with ℓ0-constraints for unsupervised learning."  submission to Applied Mathematical Modelling 2024
 
 - Li Yu#, __Wenwen Min#__, Shunfang Wang\*. "Boundary-Aware Gradient Operator Network for Medical Image Segmentation." IEEE Journal of Biomedical and Health Informatics, 2024.
   
