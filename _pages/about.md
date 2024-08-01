@@ -68,7 +68,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 
 - Li Yu#, __Wenwen Min#__, Shunfang Wang\*. "Boundary-Aware Gradient Operator Network for Medical Image Segmentation." IEEE Journal of Biomedical and Health Informatics, 2024.
 
-- Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. "High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model." arXiv preprint arXiv:submit/5762902
+- Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. "High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model." [arXiv, 2024](https://arxiv.org/pdf/2407.20518)
   
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) and <u>*Corresponding author</u> and <u>#Co-first author</u>
