@@ -69,7 +69,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - Li Yu#, __Wenwen Min#__, Shunfang Wang\*. "Boundary-Aware Gradient Operator Network for Medical Image Segmentation." IEEE Journal of Biomedical and Health Informatics, 2024.
 
 - Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. "High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model." [arXiv, 2024](https://arxiv.org/pdf/2407.20518)
-- 
+  
 - Weifeng Yang,  __Wenwen Min*__. "Globally Convergent Accelerated Algorithms for Multilinear Sparse Logistic Regression with L0-Constraints." Lecture Notes in Computer Science (ICIC 2024), [URL](https://link.springer.com/chapter/10.1007/978-981-97-5663-6_8)
   
 ## 四、代表性论文
