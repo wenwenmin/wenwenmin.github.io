@@ -22,7 +22,7 @@ redirect_from:
 ## 一、个人简介
 - 闵文文，云南大学信息学院，计算机科学与工程系副教授，硕士生导师，云南大学“东陆人才计划-青年学者”。2017年毕业于武汉大学计算机学院，获工学博士学位，2019~2021在香港中文大学（深圳）从事博士后研究工作，2021年12月入选云南大学“东陆青年学者”引进人才，2022年入选云南省“兴滇英才支持计划”青年人才。目前担任中国计算机学会生物信息学专委会委员，中国生物信息学学会 (筹)网络生物学专委会委员，中国运筹学会计算系统生物学分会青年理事，Interdisciplinary Sciences: Computational Life Sciences杂志（中科院二区）青年编辑，国家自然科学基金青年、面上项目函评专家等。<br>
 - <font color="blue"> 闵老师长期从事人工智能算法（基于Transformer的深度方法、图神经网络、深度扩散模型、对比学习、单细胞大模型、矩阵张量优化等）及其在生物医学大数据中的应用研究。</font> 
-- 已完成近40篇学术论文，其中第一作者或通讯作者发表CCF A类期刊2篇，CCF B类期刊/会议8篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS (2022)，Bioinformatics (2018, 2023)，PLoS Computational Biology (2021)，IEEE TCBB (2018)，IEEE JBHI (2024), IEEE TNB (2016), BIBM (2015, 2023两篇), ISBRA (2024五篇) 等重要期刊和会议。
+- 已完成近50篇学术论文，其中第一作者或通讯作者发表CCF A类期刊2篇，CCF B类期刊/会议17篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS (2022)，Bioinformatics (2018, 2023)，Briefings in Bioinformatics (2024a, 2024b), PLoS Computational Biology (2021)，IEEE TCBB (2018)，IEEE JBHI (2024), IEEE TNB (2016), BIBM (2015, 2023两篇), ISBRA (2024五篇) 等重要期刊和会议。
 - 主持国家基金项目2项，中国博士后面上项目1项，省基础研究项目2项，“兴滇英才支持计划”青年人才项目1项，云南省智能系统与计算重点实验室开放课题（重点项目）1项等。
 
 <!--
@@ -45,6 +45,27 @@ redirect_from:
 (2) 矩阵张量优化方法研究（非凸优化、L20及L0结构稀疏优化、特征选择）<br>
 (3) 多视图无监督聚类方法研究<br>
 
+## 三、学术论文 
+
+- 谷歌主页 [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) 
+
+- ORCID主页 [My ORCID](https://orcid.org/0000-0002-2558-2911)
+
+## 四、学生培养
+
+### 招生广告
+- 本人目前可以招收计算机相关专业的专硕、学硕（感兴趣的同学可以给我发邮件: wenwen.min@qq.com）
+- 招生要求
+  - 坚持不懈的毅力（最看重的品质）
+  - 良好的编程、数学、英语能力
+  
+### 组内学生
+  
+ 
+
+
+<!-- 下面的内容被Markdown 注释 -->
+<!--
 ## 三、近期论文 (2024)
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) and <u>*Corresponding author</u> and <u>#Co-first author</u>
 
@@ -71,7 +92,12 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. "High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model." [arXiv, 2024](https://arxiv.org/pdf/2407.20518)
   
 - Weifeng Yang,  __Wenwen Min*__. "Globally Convergent Accelerated Algorithms for Multilinear Sparse Logistic Regression with L0-Constraints." Lecture Notes in Computer Science (ICIC 2024), [URL](https://link.springer.com/chapter/10.1007/978-981-97-5663-6_8)
+
+-->
   
+<!-- 下面的内容被Markdown 注释 -->
+<!--
+
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) and <u>*Corresponding author</u> and <u>#Co-first author</u>
 
@@ -142,7 +168,11 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
+-->
+  
 
+<!-- 下面的内容被Markdown 注释 -->
+<!--
 ## 五、专利和软著
 ### 专利
 - 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备
@@ -158,13 +188,11 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 闵文文，吴佳欣等. 基于深度学习的脑肿瘤智能辅助诊疗平台 V1.0
 - 闵文文，史志层等. 基于深度学习的脑肿瘤智能辅助诊疗平台 V1.0
 - 闵文文，牛晋云等. 一种基于图深度学习的空间转录组学数据聚类软件 V1.0
+-->
 
-## 学生培养
-- 本人目前可以招收计算机相关专业的专硕、学硕（感兴趣的同学可以给我发邮件）
-- 招生要求
-  - 坚持不懈的毅力（最看重的品质）
-  - 良好的编程、数学、英语能力
 
+<!-- 下面的内容被Markdown 注释 -->
+<!--
 ## News
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
 - 2024/05/10: 5 papers are accepted in ISBRA 2024 (CCF C, acceptance rate is about 38%)
@@ -181,4 +209,5 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   - "Multimodal attention-based variational autoencoder for clinical risk prediction" with 李晓宇（学硕2022级）
 - 2022/09/10: the paper "Structured Sparse Non-negative Matrix Factorization with L20-Norm" is accepted as a regular paper in IEEE TKDE (CCF A)
 - 2021/12/25: Joined Yunnan University.
+-->
 
