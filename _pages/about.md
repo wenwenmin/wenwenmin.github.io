@@ -22,7 +22,7 @@ redirect_from:
 ## 一、个人简介
 - 闵文文，云南大学信息学院，计算机科学与工程系副教授，硕士生导师，云南大学“东陆人才计划-青年学者”。2017年毕业于武汉大学计算机学院，获工学博士学位，2019~2021在香港中文大学（深圳）从事博士后研究工作，2021年12月入选云南大学“东陆青年学者”引进人才，2022年入选云南省“兴滇英才支持计划”青年人才。目前担任中国计算机学会生物信息学专委会委员，中国生物信息学学会 (筹)网络生物学专委会委员，中国运筹学会计算系统生物学分会青年理事，Interdisciplinary Sciences: Computational Life Sciences杂志（中科院二区）青年编辑，国家自然科学基金青年、面上项目函评专家等。<br>
 - <font color="blue"> 闵老师长期从事人工智能算法（基于Transformer的深度方法、图神经网络、深度扩散模型、对比学习、单细胞大模型、矩阵张量优化等）及其在生物医学大数据中的应用研究。</font> 
-- <font color="blue"> 发表学术论文近50篇，其中第一作者或通讯作者发表CCF A-B类期刊/会议20篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS (2022)，Bioinformatics (2018,2023)，Briefings in Bioinformatics (2024a, 2024b), PLoS Computational Biology (2021)，IEEE TCBB (2018)，IEEE JBHI (2024), IEEE TNB (2016), BIBM (2015, 2023a, 2023b, 2024a, 2024b, 2024c, 2024d, 2024e, 2024f, 2024g), ISBRA (2024a, 2024b, 2024c) 等重要期刊和会议。</font> 
+- <font color="blue"> 发表学术论文近50篇，其中第一作者或通讯作者发表CCF A-B类期刊/会议20篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS (2022)，Bioinformatics (2018, 2023)，Briefings in Bioinformatics (2024a, 2024b), PLoS Computational Biology (2021)，IEEE TCBB (2018)，IEEE JBHI (2024), IEEE TNB (2016), BIBM (2015, 2023a, 2023b, 2024a, 2024b, 2024c, 2024d, 2024e, 2024f, 2024g), ISBRA (2024a, 2024b, 2024c) 等重要期刊和会议。</font> 
 - <font color="blue"> 主持国家基金项目2项，中国博士后面上项目1项，省基础研究项目2项，“兴滇英才支持计划”青年人才项目1项，云南省智能系统与计算重点实验室开放课题（重点项目）1项等。</font> 
 
 <!--
