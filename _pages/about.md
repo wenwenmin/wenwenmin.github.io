@@ -60,8 +60,7 @@ redirect_from:
   - 良好的编程、数学、英语能力
   
 #### 学生情况
-<hr style="width: 100%; height: 2px;">
-
+<hr style="width: 80%; height: 3px;">
 - 李晓宇（2022级，发表CCF B会议三篇，CCF B刊BIB一篇，保送武汉大学计算机学院读博）
 - 牛晋云（2022级，发表中科院二区INSC一篇, 中科院二区CSBJ在审）
 - 杨伟峰（2022级，发表CCF C会议一篇，另三篇论文在投）
