@@ -97,18 +97,15 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   
 <!-- 下面的内容被Markdown 注释 -->
 <!--
-
 ## 四、代表性论文
 You can also find my articles on [My Google Scholar Profile](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) and <u>*Corresponding author</u> and <u>#Co-first author</u>
 
-<!-- 一个论文的基本格式 -->
 - __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
   (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
-  
-<!-- 论文2 --> 
+
 - __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
@@ -169,7 +166,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
 -->
-  
+
 
 <!-- 下面的内容被Markdown 注释 -->
 <!--
