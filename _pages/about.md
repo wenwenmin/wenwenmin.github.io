@@ -74,19 +74,19 @@ redirect_from:
 
 ## 五、论文列表
 
-[20] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan, and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. arXiv preprint arXiv:2407.08216 (2024).
+[20] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. arXiv preprint arXiv:2407.08216 (2024).
 
-[19] Xiaoyu Li, Fangfang Zhu, and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. arXiv preprint arXiv:2407.13182 (2024).
+[19] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. arXiv preprint arXiv:2407.13182 (2024).
 
 [18] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议)
  
-[17] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang, and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议)
+[17] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议)
  
-[16] Donghai Fang, Yichen Gao, Zhaoying Wang, Fangfang Zhu, and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议)
+[16] Donghai Fang, Yichen Gao, Zhaoying Wang, Fangfang Zhu and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议)
 
-[15] Zhiceng Shi, Fangfang Zhu, Changmiao Wang, and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议)
+[15] Zhiceng Shi, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议)
 
-[14] Shuailin Xue, Fangfang Zhu, Changmiao Wang, and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议)
+[14] Shuailin Xue, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议)
 
 [13] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
