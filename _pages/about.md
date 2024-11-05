@@ -142,7 +142,7 @@ redirect_from:
   2024 (中科院1区, CCF C类期刊, IF=7.7)
 
 
-## 六
+## 五、代表性论文
 
 10. 论文 1
 9. 论文 2
@@ -155,6 +155,20 @@ redirect_from:
 2. 论文 9
 1. 论文 10
 
+
+2. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+  Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
+  33(2):536-550, 2021
+  (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
+
+
+1. __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
+  Structured Sparse Non-negative Matrix Factorization with L20-Norm.
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
+  35(8):8584-8595, 2023
+  (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
+ 
 
 <!-- 下面的内容被Markdown 注释 -->
 <!--
