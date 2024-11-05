@@ -73,9 +73,19 @@ redirect_from:
 
 ## 五、论文列表
 
-[20] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, IF=9.5)
+[25] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
-[19] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, IF=9.5)
+[24] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+
+[23] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议)
+
+[22] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议)
+
+[21] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议)
+
+[20] __Wenwen Min*__., Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议)
+
+[19] L Huang, X Liu, S Wang, __Wenwen Min*__. Masked adversarial neural network for cell type deconvolution in spatial transcriptomics. __<u> BIBM 2024 </u>__ (CCF B类会议)
 
 [18] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议)
  
