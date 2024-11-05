@@ -72,6 +72,75 @@ redirect_from:
 - 黄琳（2023级，CCF B会议一篇）
 - 赵竟成（2023级）、赵锦杰（2024级）、黄煦（2024级）、杜纳梦（2024级）、刘成举（2024级）、李永衡（2024级）
 
+
+## 五、代表性论文
+
+- __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
+  Structured Sparse Non-negative Matrix Factorization with L20-Norm.
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
+  35(8):8584-8595, 2023
+  (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
+
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+  Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
+  33(2):536-550, 2021
+  (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
+
+- __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
+  A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
+  __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__,
+  33(8):3842-3856, 2022
+  (中科院一区，CCF B类期刊, IF=14.255) [[URL](https://ieeexplore.ieee.org/document/9350193),PDF,Data,Code]<br>
+  
+- __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
+  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
+  __<u>PLoS Computational Biology</u>__, 
+  17(6):e1009044, 2021 
+  (CCF B类期刊, IF=4.779)
+
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+  Edge-group sparse PCA for network-guided high dimensional data analysis.
+  __<u>Bioinformatics</u>__,
+  34(20):3479-3487, 2018
+  (CCF B类期刊, IF=6.931)
+
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+  Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery.
+    __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
+  15(3):944-953, 2018
+  (CCF B类期刊, IF=4.5)
+
+- __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
+  A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
+    __<u>IEEE Transactions on Nanobioscience</u>__,
+  15(4):362-370, 2016 
+
+- __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
+  A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
+    __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
+
+- __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+  Sparse weighted canonical correlation Analysis.
+  __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
+  27(3):459-466, 2018 （CCF Top I类期刊）
+
+- Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作, 本人通信). 
+  Multimodal attention-based variational autoencoder for clinical risk prediction. 
+  __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
+
+- Xiaoyu Li, __Wenwen Min*__(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
+  TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
+  __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
+
+- Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+  __<u>Bioinformatics</u>__,
+  39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
+
+- Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+  __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
+  2024 (中科院1区, CCF C类期刊, IF=7.7)
+
 <!-- 下面的内容被Markdown 注释 -->
 <!--
 ## 三、近期论文 (2024)
