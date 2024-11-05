@@ -36,8 +36,7 @@ redirect_from:
 主要研究方法如下：
 -->
 - 医学人工智能<br>
-(1) 深度学习在空间转录组学及单细胞组学数据融合中的应用研究<br>
-(2) 深度学习在医学图像处理及多模态数据融合中的应用研究<br>
+(1) 深度学习在空间转录组学及单细胞组学数据融合中的应用研究<br>(2) 深度学习在医学图像处理及多模态数据融合中的应用研究<br>
 (3) 深度学习在癌症组学数据分析中的应用研究<br>
 (4) 深度学习在微生物组学数据分析中的应用研究<br>
 - 机器学习理论<br>
@@ -74,9 +73,9 @@ redirect_from:
 
 ## 五、论文列表
 
-[20] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. arXiv preprint arXiv:2407.08216 (2024).
+[20] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, IF=9.5)
 
-[19] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. arXiv preprint arXiv:2407.13182 (2024).
+[19] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, IF=9.5)
 
 [18] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议)
  
