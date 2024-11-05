@@ -72,6 +72,7 @@ redirect_from:
 - 赵竟成（2023级）、赵锦杰（2024级）、黄煦（2024级）、杜纳梦（2024级）、刘成举（2024级）、李永衡（2024级）
 
 ## 五、论文列表
+第一作者和通讯作者论文（#同等贡献作者，*通讯作者）
 
 [25] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
