@@ -72,7 +72,7 @@ redirect_from:
 - 黄琳（2023级，CCF B会议一篇）
 - 赵竟成（2023级）、赵锦杰（2024级）、黄煦（2024级）、杜纳梦（2024级）、刘成举（2024级）、李永衡（2024级）
 
-## 五、代表性论文
+## 五、重要论文
 
 [1]. __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
@@ -109,33 +109,33 @@ redirect_from:
   15(3):944-953, 2018
   (CCF B类期刊, IF=4.5)
 
-7. __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
+[7] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
   A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
     __<u>IEEE Transactions on Nanobioscience</u>__,
   15(4):362-370, 2016 
 
-8. __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
+[6] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
 
-9. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+[5] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Sparse weighted canonical correlation Analysis.
   __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
   27(3):459-466, 2018 （CCF Top I类期刊）
 
-10. Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作, 本人通信). 
+[4] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作, 本人通信). 
   Multimodal attention-based variational autoencoder for clinical risk prediction. 
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-11. Xiaoyu Li, __Wenwen Min*__(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
+[3] Xiaoyu Li, __Wenwen Min*__(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
   TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-12. Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+[2] Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
   __<u>Bioinformatics</u>__,
   39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
 
-13. Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+[1] Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
 
