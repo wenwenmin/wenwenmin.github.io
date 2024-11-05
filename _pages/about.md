@@ -144,18 +144,6 @@ redirect_from:
 
 ## 五、代表性论文
 
-10. 论文 1
-9. 论文 2
-8. 论文 3
-7. 论文 4
-6. 论文 5
-5. 论文 6
-4. 论文 7
-3. 论文 8
-2. 论文 9
-1. 论文 10
-
-
 2. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
