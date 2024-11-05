@@ -74,36 +74,36 @@ redirect_from:
 
 ## 五、重要论文
 
-[1]. __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
+[13] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
   (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
 
-[3]. __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
+[12] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
   A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
   __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__,
   33(8):3842-3856, 2022
   (中科院一区，CCF B类期刊, IF=14.255) [[URL](https://ieeexplore.ieee.org/document/9350193),PDF,Data,Code]<br>
   
-[2]. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+[11] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   33(2):536-550, 2021 (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
 
-4. __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
+[10] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
   TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
   __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 
   (CCF B类期刊, IF=4.779)
 
-5. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+[9] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Edge-group sparse PCA for network-guided high dimensional data analysis.
   __<u>Bioinformatics</u>__,
   34(20):3479-3487, 2018
   (CCF B类期刊, IF=6.931)
 
-6. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+[8] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery.
     __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
   15(3):944-953, 2018
