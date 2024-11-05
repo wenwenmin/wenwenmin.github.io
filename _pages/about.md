@@ -144,14 +144,17 @@ redirect_from:
 
 ## 五、代表性论文
 
-2. __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+3.__Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
+  A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
+  __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__,
+  33(8):3842-3856, 2022
+  (中科院一区，CCF B类期刊, IF=14.255) [[URL](https://ieeexplore.ieee.org/document/9350193),PDF,Data,Code]<br>
+2.__Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   33(2):536-550, 2021
   (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
-
-
-1. __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
+1.__Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
