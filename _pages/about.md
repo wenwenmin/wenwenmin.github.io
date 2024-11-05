@@ -146,11 +146,11 @@ redirect_from:
   __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
   27(3):459-466, 2018 （CCF Top I类期刊）
 
-[4] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作, 本人通信). 
+[4] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作). 
   Multimodal attention-based variational autoencoder for clinical risk prediction. 
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-[3] Xiaoyu Li, __Wenwen Min*__(学生一作, 本人通信), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
+[3] Xiaoyu Li, __Wenwen Min*__(学生一作), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
   TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
