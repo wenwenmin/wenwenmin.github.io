@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "minwenwen20240628.jpg"
-  name             : "Wenwen Min"
+  name             : "Wenwen Min (闵文文)"
   pronouns         : # example: "she/her"  
   bio              : "医学人工智能"
   location         : "Kunming, Yunnan, China"
@@ -32,8 +32,8 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Wenwen-Min/research"
   orcid            : "https://orcid.org/0000-0002-2558-2911" 
+  researchgate     : "https://www.researchgate.net/profile/Wenwen-Min/research"
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
