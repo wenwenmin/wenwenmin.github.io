@@ -81,9 +81,9 @@ redirect_from:
 ## 五、论文列表
 第一作者和通讯作者论文（#同等贡献作者，*通讯作者）
 
-[27] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN. Briefings in Bioinformatics 2024  (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [27] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN. Briefings in Bioinformatics 2024  (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
-[26] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [26] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
 [25] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
