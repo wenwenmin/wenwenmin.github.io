@@ -85,92 +85,92 @@ redirect_from:
 
 - [26] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
-[25] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [25] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
-[24] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. Interdisciplinary Sciences: Computational Life Sciences 2024 (中科院JCR2区, IF=4.1)
+- [24] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. Interdisciplinary Sciences: Computational Life Sciences 2024 (中科院JCR2区, IF=4.1)
 
-[23] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [23] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-[22] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [22] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-[21] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [21] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-[20] __Wenwen Min*__., Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [20] __Wenwen Min*__., Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-[19] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [19] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
  
-[18] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [18] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-[17] L Huang, X Liu, S Wang, __Wenwen Min*__. Masked adversarial neural network for cell type deconvolution in spatial transcriptomics. __<u> BIBM 2024 </u>__ (CCF B类会议)
+- [17] L Huang, X Liu, S Wang, __Wenwen Min*__. Masked adversarial neural network for cell type deconvolution in spatial transcriptomics. __<u> BIBM 2024 </u>__ (CCF B类会议)
 
-[16] Donghai Fang, Yichen Gao, Zhaoying Wang, Fangfang Zhu and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议)
+- [16] Donghai Fang, Yichen Gao, Zhaoying Wang, Fangfang Zhu and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议)
 
-[15] Zhiceng Shi, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议)
+- [15] Zhiceng Shi, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议)
 
-[14] Shuailin Xue, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议)
+- [14] Shuailin Xue, Fangfang Zhu, Changmiao Wang and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议)
 
-[13] Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+- [13] Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
 
-[12] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作). 
+- [12] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作). 
   Multimodal attention-based variational autoencoder for clinical risk prediction. 
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-[11] Xiaoyu Li, __Wenwen Min*__(学生一作), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
+- [11] Xiaoyu Li, __Wenwen Min*__(学生一作), Jinyu Chen, Jiaxin Wu and Shunfang Wang.
   TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis.
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
 
-[10] Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+- [10] Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
   __<u>Bioinformatics</u>__,
   39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
 
-[9] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
+- [9] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang.
   Structured Sparse Non-negative Matrix Factorization with L20-Norm.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
   (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
 
-[8] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
+- [8] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
   A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
   __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__,
   33(8):3842-3856, 2022
   (中科院一区，CCF B类期刊, IF=14.255) [[URL](https://ieeexplore.ieee.org/document/9350193),PDF,Data,Code]<br>
   
-[7] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+- [7] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 
   33(2):536-550, 2021 (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
 
-[6] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
+- [6] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang\*, Xiang Wan*. 
   TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers. 
   __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 
   (CCF B类期刊, IF=4.779)
 
-[5] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+- [5] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Edge-group sparse PCA for network-guided high dimensional data analysis.
   __<u>Bioinformatics</u>__,
   34(20):3479-3487, 2018
   (CCF B类期刊, IF=6.931)
 
-[4] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+- [4] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery.
     __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
   15(3):944-953, 2018
   (CCF B类期刊, IF=4.5)
 
-[3] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
+- [3] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
   A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
     __<u>IEEE Transactions on Nanobioscience</u>__,
   15(4):362-370, 2016 
 
-[2] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+- [2] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Sparse weighted canonical correlation Analysis.
   __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
   27(3):459-466, 2018 （CCF Top I类期刊）
 
-[1] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
+- [1] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
 
