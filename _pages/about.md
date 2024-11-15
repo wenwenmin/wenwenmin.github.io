@@ -64,9 +64,9 @@ redirect_from:
 - 2022级，牛*云（发表中科院二区一篇INSC, 中科院二区CSBJ大修，保送澳门理工大学读博）
 - 2022级，杨*峰（发表CCF C会议一篇，另三篇论文在投）
 - 2022级，王*震（发表CCF B会议一篇，另一篇论文在投）
-- 2023级，方*海（CCF B会议两篇，CCF C会议一篇，期刊PLoS CB在投）
+- 2023级，方*海（省厅项目1.5万，CCF B会议两篇，CCF C会议一篇，期刊PLoS CB在投）
 - 2023级，史*层（发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，期刊Methods在投）
-- 2023级，薛*林（发表CCF C会议一篇，中科院一区一篇BIB（大修），中科院一区论文一篇在投）
+- 2023级，薛*林（省厅项目1.5万，中科院一区一篇BIB，发表CCF C会议一篇，中科院一区论文一篇在投）
 - 2023级，史*源（发表CCF B会议一篇，JCB期刊在投）
 - 2023级，黄*琳（发表CCF B会议一篇）
 - 2023级，赵*成（进行中）
@@ -292,6 +292,7 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 <!-- 下面的内容被Markdown 注释 -->
 <!--
 ## News
+- 2024/10/12: 8 papers are accepted in BIBM 2024 (CCF B, acceptance rate is about 20%)
 - 2024/05/15: the paper "Boundary-aware Gradient Operator Network for Medical Image Segmentation" is accepted in IEEE Journal of Biomedical and Health Informatics
 - 2024/05/10: 5 papers are accepted in ISBRA 2024 (CCF C, acceptance rate is about 38%)
   - "stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement" with 薛帅林（专硕2023级）
