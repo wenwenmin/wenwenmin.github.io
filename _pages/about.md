@@ -99,7 +99,7 @@ redirect_from:
 
 - [21] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
-- [20] __Wenwen Min*__., Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [20] __Wenwen Min*__, Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
 
 - [19] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
  
