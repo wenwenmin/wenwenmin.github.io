@@ -168,29 +168,21 @@ redirect_from:
   15(3):944-953, 2018
   (CCF B类期刊, IF=4.5)
 
-- [03] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
-  A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
-    __<u>IEEE Transactions on Nanobioscience</u>__,
-  15(4):362-370, 2016 
-
-- [02] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
+- [03] __Wenwen Min__, Juan Liu\*, Shihua Zhang*.
   Sparse weighted canonical correlation Analysis.
   __<u>Chinese Journal of Electronics (电子学报英文版)</u>__,
   27(3):459-466, 2018 （CCF Top I类期刊）
+
+- [02] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*.
+  A two-stage method to identify joint modules from matched microRNA and mRNA expression data.
+    __<u>IEEE Transactions on Nanobioscience</u>__,
+  15(4):362-370, 2016 
 
 - [01] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
 
   
-
-
-
-
-
-
-
-
 
 
 
