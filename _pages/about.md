@@ -89,7 +89,7 @@ redirect_from:
 
 - [29] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)
   
-- [28] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__ (中科院JCR2区, IF=4.4)
+- [28] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__, https://doi.org/10.1016/j.csbj.2024.11.041 (中科院JCR2区, IF=4.4)
 
 - [27] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院JCR2区, IF=4.1)
 
