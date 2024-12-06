@@ -323,3 +323,19 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 2021/12/25: Joined Yunnan University.
 -->
 
+
+<!-- 论文模型图 -->
+<p align="center"> 
+<!-- <img src="../images/STMask.jpg">-->
+<img src="https://github.com/wenwenmin/SpaMask/blob/main/SpaMask.jpg">
+
+</p>
+
+<!-- 论文模型图 -->
+<p align="center"> 
+<!-- <img src="../images/STMask.jpg">-->
+<img src="https://github.com/wenwenmin/SpaMask/blob/main/SpaMask.jpg">
+
+</p>
+
+
