@@ -63,6 +63,9 @@ https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/about.md
 4 Publications（可编辑源文件）（Publications板块）
 https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/publications.md
 
-5 添加News，可以酌情放到Wenwen's Home板块中
+5 可编辑软件板块
+https://github.com/wenwenmin/wenwenmin.github.io/blob/master/_pages/software.md
+
+6 添加News，可以酌情放到Wenwen's Home板块中
 
 
