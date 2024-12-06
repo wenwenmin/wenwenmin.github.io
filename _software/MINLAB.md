@@ -5,6 +5,8 @@ permalink: /software/STMask
 date: 2024-06-04
 ---
 
+--------------------------------------------------------------
+
 <!-- 标题 -->
 ### Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-channel Masked Graph Auto-encoder [[GitHub](https://github.com/donghaifang/STMask/tree/main)]
 ### 摘要
@@ -29,8 +31,7 @@ year         = {2024}
 </pre></div>
 
 
-
--------------------------------------
+--------------------------------------------------------------
 
 
 <!-- 标题 -->
@@ -69,12 +70,8 @@ Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
 
 
 
----
-title: "MAVAE"
-collection: software
-permalink: /software/MAVAE
-date: 2024-06-01
----
+--------------------------------------------------------------
+
 
 <!-- 标题 -->
 ### Multimodal attention-based variational autoencoder for clinical risk prediction [[GitHub](https://github.com/wenwenmin/MAVAE)]
