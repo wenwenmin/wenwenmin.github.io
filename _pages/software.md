@@ -42,23 +42,25 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 <!-- 分割线 -->
 ---
 
+
+
 <!-- 标题 -->
-### Masked Conditional Diffusion Model with GNN for Spatial Transcriptomics Data Imputation [[GitHub](https://github.com/lllxxyyy-lxy/stMCDI)]
+## [stMCDI](https://github.com/lllxxyyy-lxy/stMCDI)
+### Masked Conditional Diffusion Model with GNN for Spatial Transcriptomics Data Imputation
 ### 摘要
 Spatially resolved transcriptomics represents a significant advancement in single-cell analysis by offering both gene expression data and their corresponding physical locations. 
 However, this high degree of spatial resolution entails a drawback, as the resulting spatial transcriptomic data at the cellular level is notably plagued by a high incidence of missing values.
 Furthermore, most existing imputation methods either overlook the spatial information between spots or compromise the overall gene expression data distribution.
 To address these challenges, our primary focus is on effectively utilizing the spatial location information within spatial transcriptomic data to impute missing values, while preserving the overall data distribution.
-We introduce \textbf{stMCDI}, a masked conditional diffusion model for spatial transcriptomics data imputation, which employs a denoising network trained using randomly masked data portions as guidance, with the unmasked data serving as conditions. 
+We introduce **stMCDI**, a masked conditional diffusion model for spatial transcriptomics data imputation, which employs a denoising network trained using randomly masked data portions as guidance, with the unmasked data serving as conditions. 
 Additionally, it utilizes a GNN encoder to integrate the spatial position information, thereby enhancing model performance.
 Compared with baseline methods, our model achieves state-of-the-art performance in all evaluation metrics on six real-world datasets.
 The results obtained from spatial transcriptomics datasets elucidate the performance of our methods relative to existing approaches.
-Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
+
 <!-- 论文模型图 -->
 <p align="center"> 
-<img src="../images/stMCDI.png">
+<img src="../images/packages/stMCDI.png">
 </p>
-
 
 ### 论文状态
 - 投稿TNNLS 2024.4<br>
@@ -66,22 +68,23 @@ Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
 
 ### 论文引用
 <p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
+<pre>
 @article{li2024stmcdi,
   title={stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation},
   author={Li, Xiaoyu and Min, Wenwen and Wang, Shunfang and Wang, Changmiao and Xu, Taosheng},
   journal={arXiv preprint arXiv:2403.10863},
   year={2024}
 }
-</pre></div>
+</pre>
 
+<!-- 分割线 -->
+---
 
-
---------------------------------------------------------------
 
 
 <!-- 标题 -->
-### Multimodal attention-based variational autoencoder for clinical risk prediction [[GitHub](https://github.com/wenwenmin/MAVAE)]
+## [MAVAE](https://github.com/wenwenmin/MAVAE)
+### Multimodal attention-based variational autoencoder for clinical risk prediction
 ### 摘要
 Prediction of survival risk in cancer patients is crucial for understanding the underlying mechanisms of canceration in different stages. 
 Previous studies mainly relied on single-modal omics data due to  technological constraints. 
@@ -96,20 +99,18 @@ We find that
 (2) Multi-modal data yields better classification performance than single-modal data; 
 (3) The multi-head attention mechanism improves the decision-making process; 
 (4) Clinical and genetic data are the most important modal data.
+
 <!-- 论文模型图 -->
-
 <p align="center"> 
-<img src="../images/MAVAE.png">
+<img src="../images/packages/MAVAE.png">
 </p>
-
-
 
 ### 论文状态
 - BIBM2023<br>
 
 ### 论文引用
 <p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
+<pre>
 @inproceedings{li2023multimodal,
   title={Multimodal attention-based variational autoencoder for clinical risk prediction},
   author={Li, Xiaoyu and Xu, Taosheng and Chen, Jinyu and Wan, Jun and Min, Wenwen},
@@ -118,20 +119,16 @@ We find that
   year={2023},
   organization={IEEE}
 }
+</pre>
 
-</pre></div>
-
-
-
+<!-- 分割线 -->
 ---
-title: "TransVCOX"
-collection: software
-permalink: /software/TransVCOX
-date: 2024-06-04
----
+
+
 
 <!-- 标题 -->
-### TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis[[GitHub](https://github.com/wenwenmin/TransVCOX)]
+## [TransVCOX](https://github.com/wenwenmin/TransVCOX)
+### TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis
 ### 摘要
 Traditional survival analysis models, such as the COX proportional hazards model, face challenges in processing multimodal data, identifying nonlinear relationships, and recognizing complex data patterns. The rise of deep learning, particularly Transformers and variational autoencoders (VAEs), has showcased its potential in analyzing cancer multi-omics data comprehensively. However, many individual cancer datasets suffer from limited sample sizes, preventing some deep learning models from extracting in-depth data representations and resulting in subpar performance.
 To address this issue, we advocate the adoption of pre-training and fine-tuning techniques, which effectively mitigate performance deficits due to sparse cancer data samples. We introduce TransVCOX, a deep survival analysis model integrating a Transformer encoder with VAE. This model leverages pre-training and fine-tuning approaches to predict patients' survival risk using cancer multi-omics data.
@@ -141,19 +138,18 @@ Rigorous tests on eight unique cancer datasets from TCGA revealed:
 (3) VAE encoding, compared to positional encoding, offers a richer decision-making foundation.
 (4) The performance boost doesn't linearly correlate with the addition of Transformer blocks.
 These findings underline TransVCOX's promising capability for predicting cancer patients' survival risks using multi-omics data. 
+
 <!-- 论文模型图 -->
-
 <p align="center"> 
-<img src="../images/TransVCOX.png">
+<img src="../images/packages/TransVCOX.png">
 </p>
-
 
 ### 论文状态
 - BIBM2023<br>
 
 ### 论文引用
 <p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
+<pre>
 @inproceedings{li2023transvcox,
   title={TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis},
   author={Li, Xiaoyu and Min, Wenwen and Chen, Jinyu and Wu, Jiaxin and Wang, Shunfang},
@@ -162,9 +158,7 @@ These findings underline TransVCOX's promising capability for predicting cancer 
   year={2023},
   organization={IEEE}
 }
+</pre>
 
-
-</pre></div>
-
-
-
+<!-- 分割线 -->
+---
