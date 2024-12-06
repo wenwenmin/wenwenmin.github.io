@@ -29,6 +29,13 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 ### 论文引用
 Min, Wenwen and Fang, Donghai and Chen, Jinyu and Zhang, Shihua. (2024) Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-channel Masked Graph Auto-encoder.
 
+@article{li2024stmcdi,
+  title={stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation},
+  author={Li, Xiaoyu and Min, Wenwen and Wang, Shunfang and Wang, Changmiao and Xu, Taosheng},
+  journal={arXiv preprint arXiv:2403.10863},
+  year={2024}
+}
+
 <!-- 分割线 -->
 ---
 
@@ -63,7 +70,6 @@ Our code can be accessed at \url{https://anonymous.4open.science/r/stMCDI-2824}.
   journal={arXiv preprint arXiv:2403.10863},
   year={2024}
 }
-
 </pre></div>
 
 
