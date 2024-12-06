@@ -26,14 +26,7 @@ We propose an efficient self-supervised learning method utilizing a **dual-chann
 - [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
 
 ### 论文引用
-<p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
-@article{STMask2024,
-author       = {Wenwen Min, Donghai Fang Jinyu Chen and Shihua Zhang},
-title        = {Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-channel Masked Graph Auto-encoder},
-year         = {2024}
-}
-</pre></div>
+Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-channel Masked Graph Auto-encoder
 
 
 
