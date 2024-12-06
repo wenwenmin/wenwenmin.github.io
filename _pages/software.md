@@ -18,10 +18,7 @@ author_profile: true
 We propose an efficient self-supervised learning method utilizing a **dual-channel masked graph autoencoder**  for the analysis and research of spatial transcriptomics data (namely **STMask**). The gene representation learning channel cleverly integrates the masking mechanism into the graph autoencoder, reducing feature redundancy and enhancing model robustness. Additionally, we employ the scaled cosine loss as the training objective to further stabilize the embedding representation. Simultaneously, the gene relationship learning channel disrupts the spatial graph structure to generate multiple perspectives and combines contrastive learning principles to maximize mutual information, thereby strengthening the model's discriminative capability. It is worth noting that the two channels share the same encoder, which helps to enhance the model's ability to learn gene expressions and facilitates the acquisition of discriminative feature embeddings...
 <!-- 论文模型图 -->
 <p align="center"> 
-  
-<!-- <img src="../images/STMask.jpg">-->
-<img src="https://github.com/wenwenmin/SpaMask/blob/main/SpaMask.jpg">
-
+<img src="../images/STMask.jpg">
 </p>
 
 ### 论文状态
@@ -38,8 +35,6 @@ year         = {2024}
 }
 </pre></div>
 
-
---------------------------------------------------------------
 
 
 <!-- 标题 -->
