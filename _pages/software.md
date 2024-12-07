@@ -46,7 +46,7 @@ In this study, we propose mclSTExp: a multimodal deep learning approach utilizin
 <!-- 论文模型图 -->
 <figure>
   <img src="../images/packages/mclSTExp.jpg" alt="Image description">
-  <figcaption> Overview of mclSTExp. 
+  <figcaption> Overview of mclSTExp. Step 1: mclSTExp seamlessly integrates spot features with their positional information using the self-attention mechanism of Transformer. Subsequently, it fuses H\&E image information through contrastive learning, thus learning a multi-modal embedding space enriched with diverse features. Step 2: Projected image patches into the learned multimodal embedding space to query the expressions of the nearest k spotsl; inferred the gene expression of the test image by weighted aggregation of these queried spot expressions.
   </figcaption>
 </figure>
 
@@ -77,7 +77,8 @@ ST data for the prediction of undetected genes.
 <!-- 论文模型图 -->
 <figure>
   <img src="../images/packages/SpaDiT.jpg" alt="Image description">
-  <figcaption> Overview of SpaDiT. 
+  <figcaption> Overview of SpaDiT. There are three parts in total: latent embedding, conditional embedding and network backbone. 
+    (A) is the training process where each gene is considered as a sample, and (B) is the inference process.
   </figcaption>
 </figure>
 
