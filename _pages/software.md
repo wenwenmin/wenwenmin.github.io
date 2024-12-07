@@ -213,7 +213,6 @@ Rigorous tests on eight unique cancer datasets from TCGA revealed:
 (4) The performance boost doesn't linearly correlate with the addition of Transformer blocks.
 These findings underline TransVCOX's promising capability for predicting cancer patients' survival risks using multi-omics data. 
 
-<!-- 论文模型图 -->
 <figure>
   <img src="../images/packages/TransVCOX.jpg" alt="Image description">
   <figcaption> 
