@@ -129,8 +129,28 @@ If you have any questions, please contact wenwen.min@foxmail.com
 
 
 <!-- 分割线 --> ---
+<!-- 5 -->
+## [SpaDAMA](https://github.com/wenwenmin/SpaDAMA)
+### SpaDAMA: Spatial Transcriptomics Deconvolution Using Domain-Adversarial Masked Autoencoder
+In this study, we introduce a Domain-Adversarial Masked Autoencoder (SpaDAMA) for cell type deconvolution in spatial transcriptomics data. SpaDAMA leverages Domain-Adversarial learning to align real ST data with simulated ST data generated from scRNA-seq data. By projecting both datasets into a shared latent space, SpaDAMA effectively minimizes the data modality gap. Furthermore, SpaDAMA incorporates masking techniques to enhance the model’s ability to learn robust features from real ST data, while mitigating noise and spatial confounding factors.
+
+<!-- 论文模型图 -->
+<figure>
+  <img src="../images/packages/SpaDiT.jpg" alt="Image description">
+  <figcaption> Overview of SpaDAMA. 
+  </figcaption>
+</figure>
+
+### Contact details
+If you have any questions, please contact **wenwen.min@foxmail.com**
+
+### Citing
+SpaDAMA: Spatial Transcriptomics Deconvolution Using Domain-Adversarial Masked Autoencoder
 
 
+
+<!-- 分割线 --> ---
+<!-- 6 -->
 ## [stMCDI](https://github.com/lllxxyyy-lxy/stMCDI)
 ### Masked Conditional Diffusion Model with GNN for Spatial Transcriptomics Data Imputation
 
