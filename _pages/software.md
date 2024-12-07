@@ -47,7 +47,7 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 <!-- 标题 -->
 ## [stMCDI](https://github.com/lllxxyyy-lxy/stMCDI)
 ### Masked Conditional Diffusion Model with GNN for Spatial Transcriptomics Data Imputation
-### 摘要
+
 Spatially resolved transcriptomics represents a significant advancement in single-cell analysis by offering both gene expression data and their corresponding physical locations. 
 However, this high degree of spatial resolution entails a drawback, as the resulting spatial transcriptomic data at the cellular level is notably plagued by a high incidence of missing values.
 Furthermore, most existing imputation methods either overlook the spatial information between spots or compromise the overall gene expression data distribution.
@@ -59,23 +59,14 @@ The results obtained from spatial transcriptomics datasets elucidate the perform
 
 <!-- 论文模型图 -->
 <p align="center"> 
-<img src="../images/packages/stMCDI.png">
+<img src="../images/packages/stMCDI.jpg">
 </p>
 
-### 论文状态
-- 投稿TNNLS 2024.4<br>
+### Citing
+- Xiaoyu Li, Wenwen Min*, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. BIBM, 2024
+- 
 - [arXiv](https://arxiv.org/abs/2403.10863)
 
-### 论文引用
-<p>The corresponding BiBTeX citation are given below:</p>
-<pre>
-@article{li2024stmcdi,
-  title={stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation},
-  author={Li, Xiaoyu and Min, Wenwen and Wang, Shunfang and Wang, Changmiao and Xu, Taosheng},
-  journal={arXiv preprint arXiv:2403.10863},
-  year={2024}
-}
-</pre>
 
 <!-- 分割线 -->
 ---
