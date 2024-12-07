@@ -30,21 +30,9 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 ### Citing
 - Submitted to PLoS Computational Biology <br>
 - [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
-  
-<p>The corresponding BiBTeX citation are given below:</p>
-<pre>
-@article{min2024dimensionality,
-  title={Dimensionality Reduction and Denoising of Spatial Transcriptomics Data Using Dual-Channel Masked Graph Autoencoder},
-  author={Min, Wenwen and Fang, Donghai and Chen, Jinyu and Zhang, Shihua},
-  journal={bioRxiv},
-  pages={2024--05},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
-}
-</pre>
 
 <!-- 分割线 -->
-------
+<hr style="border: 1px solid red;">
 
 
 
