@@ -160,7 +160,7 @@ The results obtained from spatial transcriptomics datasets elucidate the perform
 
 ## [MAVAE](https://github.com/wenwenmin/MAVAE)
 ### Multimodal attention-based variational autoencoder for clinical risk prediction
-### 摘要
+
 Prediction of survival risk in cancer patients is crucial for understanding the underlying mechanisms of canceration in different stages. 
 Previous studies mainly relied on single-modal omics data due to  technological constraints. 
 However, with the increasing availability of cancer omics data, researchers have focused on the use of multi-omics and multimodal data for survival analysis. 
