@@ -64,7 +64,6 @@ The results obtained from spatial transcriptomics datasets elucidate the perform
 
 ### Citing
 - Xiaoyu Li, Wenwen Min*, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. BIBM, 2024
-- 
 - [arXiv](https://arxiv.org/abs/2403.10863)
 
 
