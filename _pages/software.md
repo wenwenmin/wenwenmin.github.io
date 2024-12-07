@@ -27,7 +27,7 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
   </figcaption>
 </figure>
 
-## Contact details
+### Contact details
 If you have any questions, please contact wenwen.min@foxmail.com
 
 ### Citing
