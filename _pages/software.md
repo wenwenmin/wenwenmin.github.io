@@ -24,7 +24,7 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 
 <figure>
   <img src="../images/packages/SpaMask.jpg" alt="Image description">
-  <figcaption>Figure 1: This is the caption for the image.</figcaption>
+  <figcaption>This is the caption for the image.</figcaption>
 </figure>
 
 ### 论文状态
