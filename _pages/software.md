@@ -49,9 +49,12 @@ Compared with baseline methods, our model achieves state-of-the-art performance 
 The results obtained from spatial transcriptomics datasets elucidate the performance of our methods relative to existing approaches.
 
 <!-- 论文模型图 -->
-<p align="center"> 
-<img src="../images/packages/stMCDI.jpg">
-</p>
+<figure>
+  <img src="../images/packages/stMCDI.jpg" alt="Image description">
+  <figcaption> 
+    Overview of stMCDI.
+  </figcaption>
+</figure>
 
 ### Citing
 - Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ 
@@ -78,14 +81,15 @@ We find that
 (4) Clinical and genetic data are the most important modal data.
 
 <!-- 论文模型图 -->
-<p align="center"> 
-<img src="../images/packages/MAVAE.png">
-</p>
+<figure>
+  <img src="../images/packages/MAVAE.png" alt="Image description">
+  <figcaption> 
+    Overview of MAVAE.
+  </figcaption>
+</figure>
 
-### 论文状态
-- BIBM2023<br>
 
-### 论文引用
+### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <pre>
 @inproceedings{li2023multimodal,
@@ -104,7 +108,7 @@ We find that
 
 ## [TransVCOX](https://github.com/wenwenmin/TransVCOX)
 ### TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis
-### 摘要
+
 Traditional survival analysis models, such as the COX proportional hazards model, face challenges in processing multimodal data, identifying nonlinear relationships, and recognizing complex data patterns. The rise of deep learning, particularly Transformers and variational autoencoders (VAEs), has showcased its potential in analyzing cancer multi-omics data comprehensively. However, many individual cancer datasets suffer from limited sample sizes, preventing some deep learning models from extracting in-depth data representations and resulting in subpar performance.
 To address this issue, we advocate the adoption of pre-training and fine-tuning techniques, which effectively mitigate performance deficits due to sparse cancer data samples. We introduce TransVCOX, a deep survival analysis model integrating a Transformer encoder with VAE. This model leverages pre-training and fine-tuning approaches to predict patients' survival risk using cancer multi-omics data.
 Rigorous tests on eight unique cancer datasets from TCGA revealed:
@@ -115,12 +119,12 @@ Rigorous tests on eight unique cancer datasets from TCGA revealed:
 These findings underline TransVCOX's promising capability for predicting cancer patients' survival risks using multi-omics data. 
 
 <!-- 论文模型图 -->
-<p align="center"> 
-<img src="../images/packages/TransVCOX.png">
-</p>
-
-### 论文状态
-- BIBM2023<br>
+<figure>
+  <img src="../images/packages/TransVCOX.jpg" alt="Image description">
+  <figcaption> 
+    Overview of MAVAE.
+  </figcaption>
+</figure>
 
 ### 论文引用
 <p>The corresponding BiBTeX citation are given below:</p>
