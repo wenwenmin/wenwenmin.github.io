@@ -27,11 +27,10 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
   </figcaption>
 </figure>
 
-### 论文状态
-- 投稿PLoS CB 2024.11<br>
+### Citing
+- Submitted to PLoS Computational Biology <br>
 - [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
-
-### 论文引用
+  
 <p>The corresponding BiBTeX citation are given below:</p>
 <pre>
 @article{min2024dimensionality,
