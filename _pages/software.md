@@ -10,8 +10,7 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-
-<!-- 标题 -->
+<!-- 分割线 --> <hr style="border: 1px solid blue;">
 ## [SpaMask](https://github.com/wenwenmin/SpaMask)
 ### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
 Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data.  **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
@@ -34,12 +33,10 @@ If you have any questions, please contact wenwen.min@foxmail.com
 - Submitted to PLoS Computational Biology <br>
 - [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
 
-<!-- 分割线 -->
-<hr style="border: 1px solid red;">
+
+<!-- 分割线 --> <hr style="border: 1px solid blue;">
 
 
-
-<!-- 标题 -->
 ## [stMCDI](https://github.com/lllxxyyy-lxy/stMCDI)
 ### Masked Conditional Diffusion Model with GNN for Spatial Transcriptomics Data Imputation
 
@@ -58,16 +55,13 @@ The results obtained from spatial transcriptomics datasets elucidate the perform
 </p>
 
 ### Citing
-- Xiaoyu Li, Wenwen Min*, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. BIBM, 2024
+- Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ 
 - [arXiv](https://arxiv.org/abs/2403.10863)
 
 
-<!-- 分割线 -->
----
+<!-- 分割线 --> <hr style="border: 1px solid blue;">
 
 
-
-<!-- 标题 -->
 ## [MAVAE](https://github.com/wenwenmin/MAVAE)
 ### Multimodal attention-based variational autoencoder for clinical risk prediction
 ### 摘要
@@ -106,12 +100,10 @@ We find that
 }
 </pre>
 
-<!-- 分割线 -->
----
+
+<!-- 分割线 --> <hr style="border: 1px solid blue;">
 
 
-
-<!-- 标题 -->
 ## [TransVCOX](https://github.com/wenwenmin/TransVCOX)
 ### TransVCOX: Bridging Transformer Encoder and Pre-trained VAE for Robust Cancer Multi-Omics Survival Analysis
 ### 摘要
@@ -145,5 +137,4 @@ These findings underline TransVCOX's promising capability for predicting cancer 
 }
 </pre>
 
-<!-- 分割线 -->
----
+<!-- 分割线 --> <hr style="border: 1px solid blue;">
