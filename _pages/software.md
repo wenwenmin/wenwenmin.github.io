@@ -10,7 +10,6 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-<!-- 分割线 --> <hr style="border: 1px solid blue;">
 ## [SpaMask](https://github.com/wenwenmin/SpaMask)
 ### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
 Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data. **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
@@ -19,7 +18,7 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 <figure>
   <img src="../images/packages/SpaMask.jpg" alt="Image description">
   <figcaption> 
-    **Overview of SpaMask.**
+    Overview of SpaMask.
     (A) SpaMask employs two distinct masking techniques to handle the gene expression matrix and spatial topology structure separately. 
     (B) SpaMask integrates Masked Graph Autoencoders (MGAE) and  Masked Graph Contrastive Learning (MGCL) modules. MGAE employs node masking to infer missing features based on spatial neighbor information. MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. 
     (C) The learned latent representations are applied to spatial clustering, trajectory inference, gene expression imputation, and other downstream analytical tasks.
@@ -34,7 +33,7 @@ If you have any questions, please contact wenwen.min@foxmail.com
 - [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
 
 
-<!-- 分割线 --> <hr style="border: 1px solid blue;">
+<!-- 分割线 --> ---
 
 
 ## [stMCDI](https://github.com/lllxxyyy-lxy/stMCDI)
@@ -59,8 +58,7 @@ The results obtained from spatial transcriptomics datasets elucidate the perform
 - [arXiv](https://arxiv.org/abs/2403.10863)
 
 
-<!-- 分割线 --> <hr style="border: 1px solid blue;">
-
+<!-- 分割线 --> ---
 
 ## [MAVAE](https://github.com/wenwenmin/MAVAE)
 ### Multimodal attention-based variational autoencoder for clinical risk prediction
@@ -101,7 +99,7 @@ We find that
 </pre>
 
 
-<!-- 分割线 --> <hr style="border: 1px solid blue;">
+<!-- 分割线 --> ---
 
 
 ## [TransVCOX](https://github.com/wenwenmin/TransVCOX)
@@ -136,5 +134,3 @@ These findings underline TransVCOX's promising capability for predicting cancer 
   organization={IEEE}
 }
 </pre>
-
-<!-- 分割线 --> <hr style="border: 1px solid blue;">
