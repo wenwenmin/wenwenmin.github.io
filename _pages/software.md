@@ -37,7 +37,39 @@ If you have any questions, please contact wenwen.min@foxmail.com
 }
 </pre>
 
-  
+<!-- 分割线 --> ---
+
+## [scstGCN](https://github.com/wenwenmin/scstGCN)
+### Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN 
+Ideal ST data should have single-cell resolution and cover the entire tissue surface,but generating such ST data with existing platforms remains challenging scstGCN is a GCN-based method that leverages a weakly supervised learning framework to integrate multimodal information and then infer super-resolution gene expression at single-cell level. It first extract high-resolution multimodal feature map, including histological feature map, positional feature map, and RGB feature map. and then use the GCN module to predict super-resolution gene expression from multimodal feature map by a weakly supervised framework. scstGCN can predict super-resolution gene expression accurately, aid researchers in discovering biologically meaningful differentially expressed genes and pathways. Additionally, it can predict expression both outside the spots and in external tissue sections.
+
+<!-- 论文模型图 -->
+<figure>
+  <img src="../images/packages/scstGCN.png" alt="Image description">
+  <figcaption> Overview of scstGCN. First, the histological image is divided into sub-images of size 224 to fit the input of the ViT module, which can extract histological feature maps by converting image data into sequence data. Second, the RGB feature map can be obtained from the histological image through downsampling and then the location feature map is calculated based on the two-dimensional spatial coordinates of the superpixels. These features are stacked to obtain the multimodal feature map. Next, The GCN module is utilized to further capture the complex relationships between adjacent cells. Finally, based on a weakly supervised GCN framework, the original gene expression data is employed as pseudo-labels to predict super-resolution gene expression.
+  </figcaption>
+</figure>
+
+### Contact details
+If you have any questions, please contact wenwen.min@foxmail.com
+
+### Citing
+<p>The corresponding BiBTeX citation are given below:</p>
+<div class="highlight-none"><div class="highlight"><pre>
+@article{xue2024inferring,
+  title={Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN},
+  author={Xue, Shuailin and Zhu, Fangfang and Chen, Jinyu and Min, Wenwen},
+  journal={Briefings in Bioinformatics},
+  volume={DOI:10.1093/bib/bbae630},
+  year={2024},
+  publisher={Oxford University Press}
+}
+</pre>
+
+
+<!-- 分割线 --> ---
+
+
 ## [SpaMask](https://github.com/wenwenmin/SpaMask)
 ### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
 Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data. **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
