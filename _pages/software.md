@@ -136,7 +136,7 @@ In this study, we introduce a Domain-Adversarial Masked Autoencoder (SpaDAMA) fo
 
 <!-- 论文模型图 -->
 <figure>
-  <img src="../images/packages/SpaDiT.jpg" alt="Image description">
+  <img src="../images/packages/SpaDAMA.png" alt="Image description">
   <figcaption> Overview of SpaDAMA. 
   </figcaption>
 </figure>
