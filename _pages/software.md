@@ -85,14 +85,6 @@ ST data for the prediction of undetected genes.
 If you have any questions, please contact wenwen.min@foxmail.com
 
 ### Citing
-<table class="docutils footnote" frame="void" id="id2" rules="none">
-<colgroup><col class="label" /><col /></colgroup>
-<tbody valign="top">
-<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
-Xiaoyu Li, Fangfang Zhu, and Wenwen Min. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." Briefings in Bioinformatics (2024).
-</td></tr>
-</tbody>
-</table>
 
 <p>The corresponding BiBTeX citation are given below:</p>
 <pre>
