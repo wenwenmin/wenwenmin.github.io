@@ -20,7 +20,7 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 <figure>
   <img src="../images/packages/SpaMask.jpg" alt="Image description">
   <figcaption> 
-    <strong> Overview of SpaMask. <strong>
+    **Overview of SpaMask.**
     (A) SpaMask employs two distinct masking techniques to handle the gene expression matrix and spatial topology structure separately. 
     (B) SpaMask integrates Masked Graph Autoencoders (MGAE) and  Masked Graph Contrastive Learning (MGCL) modules. MGAE employs node masking to infer missing features based on spatial neighbor information. MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. 
     (C) The learned latent representations are applied to spatial clustering, trajectory inference, gene expression imputation, and other downstream analytical tasks.
