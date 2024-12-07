@@ -10,7 +10,7 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-You can find all the software packages developed by our research group in [github](https://github.com/wenwenmin?tab=repositories)
+You can find all the software packages developed by our research group in [My github](https://github.com/wenwenmin?tab=repositories)
 
 <!-- 1 -->
 ## [scstGCN](https://github.com/wenwenmin/scstGCN)
