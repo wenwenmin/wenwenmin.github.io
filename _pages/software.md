@@ -126,7 +126,7 @@ These findings underline TransVCOX's promising capability for predicting cancer 
   </figcaption>
 </figure>
 
-### 论文引用
+### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <pre>
 @inproceedings{li2023transvcox,
