@@ -45,7 +45,7 @@ In this study, we propose mclSTExp: a multimodal deep learning approach utilizin
 
 <!-- 论文模型图 -->
 <figure>
-  <img src="../images/packages/scstGCN.png" alt="Image description">
+  <img src="../images/packages/mclSTExp.jpg" alt="Image description">
   <figcaption> Overview of mclSTExp. 
   </figcaption>
 </figure>
@@ -76,7 +76,7 @@ ST data for the prediction of undetected genes.
 
 <!-- 论文模型图 -->
 <figure>
-  <img src="../images/packages/scstGCN.png" alt="Image description">
+  <img src="../images/packages/SpaDiT.jpg" alt="Image description">
   <figcaption> Overview of SpaDiT. 
   </figcaption>
 </figure>
