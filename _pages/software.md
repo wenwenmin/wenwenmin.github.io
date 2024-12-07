@@ -10,6 +10,25 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
+## [scstGCN](https://github.com/wenwenmin/scstGCN)
+### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
+Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data. **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
+
+<!-- 论文模型图 -->
+<figure>
+  <img src="../images/packages/scstGCN.png" alt="Image description">
+  <figcaption> Overview of scstGCN. First, the histological image is divided into sub-images of size 224 to fit the input of the ViT module, which can extract histological feature maps by converting image data into sequence data. Second, the RGB feature map can be obtained from the histological image through downsampling and then the location feature map is calculated based on the two-dimensional spatial coordinates of the superpixels. These features are stacked to obtain the multimodal feature map. Next, The GCN module is utilized to further capture the complex relationships between adjacent cells. Finally, based on a weakly supervised GCN framework, the original gene expression data is employed as pseudo-labels to predict super-resolution gene expression.
+  </figcaption>
+</figure>
+
+### Contact details
+If you have any questions, please contact wenwen.min@foxmail.com
+
+### Citing
+- Submitted to PLoS Computational Biology <br>
+- [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.30.596562v1)
+
+  
 ## [SpaMask](https://github.com/wenwenmin/SpaMask)
 ### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
 Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data. **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
