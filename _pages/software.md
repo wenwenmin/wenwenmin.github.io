@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "软件列表"
+title: "软件包列表"
 permalink: /software/
 author_profile: true
 ---
