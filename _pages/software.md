@@ -10,11 +10,11 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
+<!-- 1 -->
 ## [scstGCN](https://github.com/wenwenmin/scstGCN)
 ### Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN 
 Ideal ST data should have single-cell resolution and cover the entire tissue surface,but generating such ST data with existing platforms remains challenging scstGCN is a GCN-based method that leverages a weakly supervised learning framework to integrate multimodal information and then infer super-resolution gene expression at single-cell level. It first extract high-resolution multimodal feature map, including histological feature map, positional feature map, and RGB feature map. and then use the GCN module to predict super-resolution gene expression from multimodal feature map by a weakly supervised framework. scstGCN can predict super-resolution gene expression accurately, aid researchers in discovering biologically meaningful differentially expressed genes and pathways. Additionally, it can predict expression both outside the spots and in external tissue sections.
 
-<!-- 论文模型图 -->
 <figure>
   <img src="../images/packages/scstGCN.png" alt="Image description">
   <figcaption> Overview of scstGCN. First, the histological image is divided into sub-images of size 224 to fit the input of the ViT module, which can extract histological feature maps by converting image data into sequence data. Second, the RGB feature map can be obtained from the histological image through downsampling and then the location feature map is calculated based on the two-dimensional spatial coordinates of the superpixels. These features are stacked to obtain the multimodal feature map. Next, The GCN module is utilized to further capture the complex relationships between adjacent cells. Finally, based on a weakly supervised GCN framework, the original gene expression data is employed as pseudo-labels to predict super-resolution gene expression.
@@ -26,7 +26,7 @@ If you have any questions, please contact wenwen.min@foxmail.com
 
 ### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
+<pre>
 @article{xue2024inferring,
   title={Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN},
   author={Xue, Shuailin and Zhu, Fangfang and Chen, Jinyu and Min, Wenwen},
@@ -38,15 +38,15 @@ If you have any questions, please contact wenwen.min@foxmail.com
 </pre>
 
 <!-- 分割线 --> ---
-
-## [scstGCN](https://github.com/wenwenmin/scstGCN)
-### Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN 
-Ideal ST data should have single-cell resolution and cover the entire tissue surface,but generating such ST data with existing platforms remains challenging scstGCN is a GCN-based method that leverages a weakly supervised learning framework to integrate multimodal information and then infer super-resolution gene expression at single-cell level. It first extract high-resolution multimodal feature map, including histological feature map, positional feature map, and RGB feature map. and then use the GCN module to predict super-resolution gene expression from multimodal feature map by a weakly supervised framework. scstGCN can predict super-resolution gene expression accurately, aid researchers in discovering biologically meaningful differentially expressed genes and pathways. Additionally, it can predict expression both outside the spots and in external tissue sections.
+<!-- 2 -->
+## [mclSTExp](https://github.com/ZhicengShi/mclSTExp)
+### Multimodal contrastive learning for spatial gene expression prediction using histology images
+In this study, we propose mclSTExp: a multimodal deep learning approach utilizing Transformer and contrastive learning architecture. Inspired by the field of natural language processing, we regard the spots detected by ST technology as ''words'' and the sequences of these spots as ''sentences'' containing multiple ''words''. We employ a self-attention mechanism to extract features from these ''words'' and combine them with learnable position encoding to seamlessly integrate the positional information of these ''words''. Subsequently, we employ a contrastive learning framework to fuse the combined features with image features. we employed two human breast cancer datasets and one human cutaneous squamous cell carcinoma (cSCC) dataset.
 
 <!-- 论文模型图 -->
 <figure>
   <img src="../images/packages/scstGCN.png" alt="Image description">
-  <figcaption> Overview of scstGCN. First, the histological image is divided into sub-images of size 224 to fit the input of the ViT module, which can extract histological feature maps by converting image data into sequence data. Second, the RGB feature map can be obtained from the histological image through downsampling and then the location feature map is calculated based on the two-dimensional spatial coordinates of the superpixels. These features are stacked to obtain the multimodal feature map. Next, The GCN module is utilized to further capture the complex relationships between adjacent cells. Finally, based on a weakly supervised GCN framework, the original gene expression data is employed as pseudo-labels to predict super-resolution gene expression.
+  <figcaption> Overview of mclSTExp. 
   </figcaption>
 </figure>
 
@@ -55,21 +55,61 @@ If you have any questions, please contact wenwen.min@foxmail.com
 
 ### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
-<div class="highlight-none"><div class="highlight"><pre>
-@article{xue2024inferring,
-  title={Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN},
-  author={Xue, Shuailin and Zhu, Fangfang and Chen, Jinyu and Min, Wenwen},
+<pre>
+@article{min2024multimodal,
+  title={Multimodal contrastive learning for spatial gene expression prediction using histology images},
+  author={Min, Wenwen and Shi, Zhiceng and Zhang, Jun and Wan, Jun and Wang, Changmiao},
   journal={Briefings in Bioinformatics},
-  volume={DOI:10.1093/bib/bbae630},
+  volume = {25},
+  number = {6},
+  pages = {bbae551},
+  year={2024}
+}
+</pre>
+
+<!-- 分割线 --> ---
+<!-- 3 -->
+## [SpaDiT](https://github.com/wenwenmin/SpaDiT)
+### SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq
+A novel deep learning method that uses a diffusion generative model to integrate scRNA-seq data and
+ST data for the prediction of undetected genes.
+
+<!-- 论文模型图 -->
+<figure>
+  <img src="../images/packages/scstGCN.png" alt="Image description">
+  <figcaption> Overview of SpaDiT. 
+  </figcaption>
+</figure>
+
+### Contact details
+If you have any questions, please contact wenwen.min@foxmail.com
+
+### Citing
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
+Xiaoyu Li, Fangfang Zhu, and Wenwen Min. "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq." Briefings in Bioinformatics (2024).
+</td></tr>
+</tbody>
+</table>
+
+<p>The corresponding BiBTeX citation are given below:</p>
+<pre>
+@article{spadit,
+  title={SpaDiT: diffusion transformer for spatial gene expression prediction using scRNA-seq},
+  author={Li, Xiaoyu and Zhu, Fangfang and Min, Wenwen},
+  journal={Briefings in Bioinformatics},
+  volume={25},
+  number={6},
+  pages={bbae571},
   year={2024},
   publisher={Oxford University Press}
 }
 </pre>
 
-
 <!-- 分割线 --> ---
-
-
+<!-- 4 -->
 ## [SpaMask](https://github.com/wenwenmin/SpaMask)
 ### SpaMask: Dual Masking Graph Autoencoder with Contrastive Learning for Spatial Transcriptomics 
 Understanding the spatial locations of cell within tissues is crucial for unraveling the organization of cellular diversity. Recent advancements in spatial resolved transcriptomics (SRT) have enabled the analysis of gene expression while preserving the spatial context within tissues. Spatial domain characterization is a critical first step in SRT data analysis, providing the foundation for subsequent analyses and insights into biological implications. Graph neural networks (GNNs) have emerged as a common tool for addressing this challenge due to the structural nature of SRT data.  However, current graph-based deep learning approaches often overlook the instability caused by the high sparsity of SRT data. **Masking mechanisms**, as an effective self-supervised learning strategy, can enhance the robustness of these models.  To this end, we propose **SpaMask, dual masking graph autoencoder with contrastive learning for SRT analysis**. Unlike previous GNNs, SpaMask masks a portion of spot nodes and spot-to-spot edges to enhance its performance and robustness. SpaMask combines **Masked Graph Autoencoders (MGAE) and Masked Graph Contrastive Learning (MGCL)** modules, with MGAE using node masking to leverage spatial neighbors for improved clustering accuracy, while MGCL applies edge masking to create a contrastive loss framework that tightens embeddings of adjacent nodes based on spatial proximity and feature similarity. We conducted a comprehensive evaluation of SpaMask on **eight datasets from five different platforms**. Compared to existing methods, SpaMask achieves superior clustering accuracy and effective batch correction.
