@@ -2,7 +2,7 @@
 title: "SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq"
 collection: publications
 permalink: /publication/2024_BIB2_SpaDiT
-date: 2025-1-1
+date: 2024-11-1
 venue: 'Briefings in Bioinformatics'
 citation: 'Xiaoyu Li, Fangfang Zhu and Wenwen Min(学生一作本人通信). SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. Briefings in Bioinformatics 2024, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5)'
 ---
