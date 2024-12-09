@@ -1,5 +1,5 @@
 ---
-title: "TsImpute: An accurate two-step imputation method for single-cell RNA-seq data"
+title: "Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN"
 collection: publications
 permalink: /publication/2024scstGCN
 date: 2025-1-1
