@@ -190,9 +190,9 @@ redirect_from:
 
 ## 六、专利和软著
 ### 专利
-- 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备，[实审，CN118486375A](https://patent.lotut.com/patent/66c6fdb65dbd827da424cc42.html)
-- 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质，[实审，CN118538295A](https://patent.lotut.com/patent/66d040b15dbd825dd0adf28a.html)
-- 闵文文，史志层等. 基于组织学图像的空间基因表达水平预测方法、装置及设备，[实审，CN118629498A](https://patent.lotut.com/patent/66e551a65dbd824d04f07d97.html)
+- 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备，[实审](https://patent.lotut.com/patent/66c6fdb65dbd827da424cc42.html)
+- 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质，[实审](https://patent.lotut.com/patent/66d040b15dbd825dd0adf28a.html)
+- 闵文文，史志层等. 基于组织学图像的空间基因表达水平预测方法、装置及设备，[实审](https://patent.lotut.com/patent/66e551a65dbd824d04f07d97.html)
 - 闵文文，王震. 一种注意力增强深度图嵌入的单细胞RNA-Seq数据聚类方法，实审
 - 闵文文，方东海. 一种基于图神经网络的空间转录组学多切片空间域识别及批次效应去除方法，实审
 
