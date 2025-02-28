@@ -66,10 +66,10 @@ redirect_from:
 - 2022级，牛*云（发表中科院二区两篇INSC2024, CSBJ2024，保送澳门理工大学读博）
 - 2022级，杨*峰（发表CCF C会议一篇ISBRA2024，TNNLS在投，CJE两篇已完成返修）
 - 2022级，王*震（发表CCF B会议一篇，另一篇论文在投）
-- 2023级，史*层（发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，Methods2025）
-- 2023级，方*海（省厅项目1.5万，CCF B会议两篇，CCF C会议一篇，期刊PLoS CB在投）
-- 2023级，薛*林（省厅项目1.5万，中科院一区一篇BIB，发表CCF C会议一篇，中科院一区论文一篇在投）
-- 2023级，史*源（发表CCF B会议一篇，JCB期刊小修，BIB在做）
+- 2023级，史*层（已发四篇：发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，Methods2025）
+- 2023级，方*海（省厅项目1.5万，已发四篇：CCF B会议两篇，CCF C会议一篇，CCF B顶刊PLoS CB一篇）
+- 2023级，薛*林（省厅项目1.5万，中科院一区一篇BIB，发表CCF C会议一篇，中科院一区论文一篇在投，MICCAI2025在投）
+- 2023级，史*源（已发两篇：发表CCF B会议一篇，JCB期刊一篇，BIB在做）
 - 2023级，黄*琳（发表CCF B会议一篇，BIB在投）
 - 2023级，赵*成（进行中）
 - 2024级，赵*杰（进行中）
@@ -80,8 +80,10 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
-## 五、论文列表
-第一作者和通讯作者论文（#同等贡献作者，*通讯作者）
+## 五、论文列表（第一和通讯作者论文）
+（#同等贡献作者，*通讯作者）
+
+- [33] W Min*, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881
 
 - [32] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
