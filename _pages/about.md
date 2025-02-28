@@ -80,8 +80,8 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
-## 五、论文列表（第一和通讯作者论文）
-（#同等贡献作者，*通讯作者）
+## 五、论文列表
+第一和通讯作者论文（#同等贡献作者，*通讯作者）
 
 - [33] W Min*, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881
 
