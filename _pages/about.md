@@ -83,7 +83,7 @@ redirect_from:
 ## 五、论文列表
 第一和通讯作者论文（#同等贡献作者，*通讯作者）
 
-### 🔥 2024
+### 🔥 2025
 
 - [33] W Min*, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881
 
@@ -127,6 +127,8 @@ redirect_from:
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
   2024 (中科院1区, CCF C类期刊, IF=7.7)
 
+### 🔥 2023
+
 - [14] Xiaoyu Li, Taosheng Xu, Jinyu Chen, Jun Wan and __Wenwen Min*__(学生一作). 
   Multimodal attention-based variational autoencoder for clinical risk prediction. 
   __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2023 (CCF B类会议, 接收率19%)
@@ -144,6 +146,8 @@ redirect_from:
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023
   (CCF A类期刊, IF=9.235) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
+
+### 🔥 2022
 
 - [10] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*.
   A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery.
