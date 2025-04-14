@@ -62,16 +62,16 @@ redirect_from:
 - <font color="red"> 感兴趣的同学可以给我邮件(wenwen.min@qq.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试上机成绩。 </font>
   
 ### 学生情况（2024/12/20）
-- 2022级，李*宇（研究生国奖2万，云大岳虹研究生奖学金-资助率0.4%，发表中科院一区一篇BIB，CCF B会议三篇，保送武汉大学计算机学院读博）
-- 2022级，牛*云（发表中科院二区两篇INSC2024, CSBJ2024，保送澳门理工大学读博）
-- 2022级，杨*峰（发表CCF C会议一篇ISBRA2024，TNNLS在投，CJE两篇已完成返修）
-- 2022级，王*震（发表CCF B会议一篇，另一篇论文在投）
-- 2023级，史*层（已发四篇：发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，Methods2025）
-- 2023级，方*海（省厅项目1.5万，已发四篇：CCF B会议两篇，CCF C会议一篇，CCF B顶刊PLoS CB一篇）
-- 2023级，薛*林（省厅项目1.5万，中科院一区一篇BIB，发表CCF C会议一篇，中科院一区论文一篇在投，MICCAI2025在投）
-- 2023级，史*源（已发两篇：发表CCF B会议一篇，JCB期刊一篇，BIB在做）
-- 2023级，黄*琳（发表CCF B会议一篇，BIB在投）
-- 2023级，赵*成（进行中）
+- 2022级，李*宇（4篇，研究生国奖2万，云大岳虹研究生奖学金-资助率0.4%，发表中科院一区一篇BIB，CCF B会议三篇，保送武汉大学计算机学院读博）
+- 2022级，牛*云（3篇，发表中科院二区两篇INSC2024, CSBJ2024，SpaBatch在投，保送澳门理工大学读博）
+- 2022级，杨*峰（4篇，发表CCF C会议一篇ISBRA2024，中科院三区CJE两篇，TNNLS在投）
+- 2022级，王*震（2篇，发表CCF B会议一篇，另一篇论文在投）
+- 2023级，史*层（4篇，发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，Methods2025）
+- 2023级，方*海（4篇，省厅项目1.5万，已发四篇：CCF B会议两篇，CCF C会议一篇，CCF B顶刊PLoS CB一篇）
+- 2023级，薛*林（4篇，省厅项目1.5万，中科院一区一篇BIB，发表CCF C会议一篇，中科院一区论文一篇在投，MICCAI2025在投）
+- 2023级，史*源（2篇，发表CCF B会议一篇，JCB期刊一篇，BIB在做）
+- 2023级，黄*琳（2篇，发表CCF B会议一篇，BIB在投）
+- 2023级，赵*成（1篇，进行中）
 - 2024级，赵*杰（进行中）
 - 2024级，黄*煦（进行中）
 - 2024级，杜*梦（进行中）
@@ -80,10 +80,19 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
-## 五、论文列表
+## 五、主要论文列表
 第一和通讯作者论文（#同等贡献作者，*通讯作者）
 
 ### 🔥 2025
+- [38] W Min*, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. Tsinghua Science and Technology, in press
+
+- [37] J Chen*, W Min*. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195, in press
+
+- [36] W Yang, W Min*. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. Chinese Journal of Electronics 2025, in press
+
+- [35] W Yang, W Min*. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. Chinese Journal of Electronics 2025, in press
+
+- [34] X Shi, F Zhu, W Min*. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. Journal of Computational Biology 2025, in press
 
 - [33] W Min*, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881
 
