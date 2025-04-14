@@ -80,8 +80,8 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
-## 五、主要论文列表
-第一和通讯作者论文（#同等贡献作者，*通讯作者）
+## 五、主要论文（一作+通讯）
+#同等贡献作者，*通讯作者
 
 ### 🔥 2025
 - [38] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__, in press
