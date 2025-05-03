@@ -100,8 +100,7 @@ redirect_from:
 
 - [34] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊)
 
-- [33] __Wenwen Min*__, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊，领域顶刊)
-,
+- [33] __Wenwen Min*__, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊)
 - [32] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
 
 - [31] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2)
