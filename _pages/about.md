@@ -75,7 +75,7 @@ redirect_from:
 - 2022级，王*震（2篇，发表CCF B会议一篇，另一篇论文在投）
 - 2023级，史*层（4篇，发表中科院一区一篇BIB，CCF B会议一篇，CCF C会议一篇，Methods2025，CCF B类期刊在投Bioinformatics）
 - 2023级，方*海（4篇，省厅项目1.5万，发表CCF B会议两篇，CCF C会议一篇，CCF B顶刊PLoS CB一篇, 一区CB2025在投）
-- 2023级，薛*林（4篇，省厅项目1.5万，发表CCF C会议一篇，一区BIB2025，一区TST2025，MICCAI2025在投，一区AS2025初步完成）
+- 2023级，薛*林（4篇，省厅项目1.5万，发表CCF C会议一篇，一区BIB2025，一区TST2025，MICCAI2025，一区AS2025初步完成）
 - 2023级，史*源（3篇，发表CCF B会议一篇，JCB期刊一篇，一区BIB在投）
 - 2023级，黄*琳（2篇，发表CCF B会议一篇，BIB在投）
 - 2023级，赵*成（1篇，BIB2025在投）
@@ -91,6 +91,8 @@ redirect_from:
 #同等贡献作者，*通讯作者
 
 ### 🔥 2025
+- [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%)
+
 - [38] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区)
 
 - [37] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5)
@@ -215,11 +217,11 @@ redirect_from:
 
 ## 六、专利和软著
 ### 专利
-- 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备，[实审](https://patent.lotut.com/patent/66c6fdb65dbd827da424cc42.html)
-- 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质，[实审](https://patent.lotut.com/patent/66d040b15dbd825dd0adf28a.html)
+- 闵文文，薛帅林等. 一种超分辨率基因表达图谱的预测方法、装置及设备，[授权](https://patent.lotut.com/patent/66c6fdb65dbd827da424cc42.html)
 - 闵文文，史志层等. 基于组织学图像的空间基因表达水平预测方法、装置及设备，[实审](https://patent.lotut.com/patent/66e551a65dbd824d04f07d97.html)
-- 闵文文，王震. 一种注意力增强深度图嵌入的单细胞RNA-Seq数据聚类方法，实审
-- 闵文文，方东海. 一种基于图神经网络的空间转录组学多切片空间域识别及批次效应去除方法，实审
+- 闵文文，王震. 一种注意力增强深度图嵌入的单细胞RNA-Seq数据聚类方法，授权
+- 闵文文，方东海. 一种基于图神经网络的空间转录组学多切片空间域识别及批次效应去除方法，授权
+- 闵文文，史鑫源等. 基于微生物组数据的生存风险预测方法、装置、设备及存储介质，[实审](https://patent.lotut.com/patent/66d040b15dbd825dd0adf28a.html)
 
 ### 软著
 - 闵文文，方东海等. 空间转录组学数据聚类软件V1.0
