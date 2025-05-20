@@ -25,7 +25,7 @@ redirect_from:
 - 闵老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量优化等）及其应用研究。
 - __研究成果__：发表学术论文近50篇，其中第一作者或通讯作者发表CCF A-B类期刊/会议22篇，包括IEEE TKDE (2021, 2023)，IEEE TNNLS (2022)，Bioinformatics (2018, 2023)，Briefings in Bioinformatics (2024a, 2024b, 2025a, 2025b), PLoS Computational Biology (2021)，IEEE TCBB (2018)，IEEE JBHI (2024), IEEE TNB (2016), BIBM (2015, 2023a, 2023b, 2024a, 2024b, 2024c, 2024d, 2024e, 2024f, 2024g), ISBRA (2024a, 2024b, 2024c), ICIC (2019, 2024) 等重要期刊和会议。
 - 主持国家自然科学基金项目2项，中国博士后面上项目1项，省基础研究项目2项，“兴滇英才支持计划”青年人才项目1项，云南省智能系统与计算重点实验室开放课题（重点项目）1项等。
-- __学术工作__：国家自然科学基金项目评审专家，教育部学位中心评审专家，计算机期刊IEEE TPAMI、IEEE TKDE、IEEE TCYB、IEEE TNNLS、IEEE TMI、IEEE TSP、IEEE TII、IEEE TMM IEEE BigData、EAAI、PR、Neural Networks等, 生信期刊：Nature Methods、Nature Communications、NAR、PLOS CB、BIB、Bioinformatics、IEEE TCBB、中国科学等的审稿专家。
+- __学术工作__：国家自然科学基金项目评审专家，教育部学位中心评审专家，计算机期刊IEEE TPAMI、IEEE TKDE、IEEE TCYB、IEEE TNNLS、IEEE TMI、IEEE TSP、IEEE TII、IEEE TMM、IEEE BigData、EAAI、PR、Neural Networks等, 生信期刊：Nature Methods、Nature Communications、NAR、PLOS CB、BIB、Bioinformatics、IEEE TCBB、中国科学等的审稿专家。
 
 <!--
 下面的内容被注释了：
