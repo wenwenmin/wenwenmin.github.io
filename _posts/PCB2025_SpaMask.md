@@ -1,6 +1,6 @@
 ---
-title: 'SpaMask 正式发表在 PLoS Computational Biology'
-date: 2025-04-07
+title: 'SpaMask 正式发表在 PLoS Computational Biology 2'
+date: 2025-04-08
 permalink: /posts/PCB2025_SpaMask
 tags:
   - cool posts
