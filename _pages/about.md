@@ -93,7 +93,7 @@ redirect_from:
 ### 🔥 2025
 - [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HISTEX))__
   
-- [38] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scstGCN))__
+- [38] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scstGCN))__
   
 - [37] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMCL))__ 
 
@@ -103,7 +103,7 @@ redirect_from:
 
 - [34] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化 [GitHub](https://github.com/wenwenmin/SGNCP))__ 
 
-- [33] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(方法领域：张量分解 [GitHub](https://github.com/Jinyu2019/sTPLS))__
+- [33] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院一区, IF=9.5) __(方法领域：张量分解 [GitHub](https://github.com/Jinyu2019/sTPLS))__
 
 - [32] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区) __(学生二作导师通讯, 学生：计算机技术专业, 方法领域：Transformer [GitHub](https://github.com/wenwenmin/SpaViT))__
 
@@ -111,13 +111,13 @@ redirect_from:
 
 ### 🔥 2024
 
-- [30] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
+- [30] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
   
-- [29] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__, https://doi.org/10.1016/j.csbj.2024.11.041 (中科院JCR2区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/STMVGAE))__
+- [29] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__ (中科院二区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/STMVGAE))__
 
-- [28] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院JCR2区, IF=4.1)  __(学生一作导师通讯，学生: 计算机技术专业, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpatialCVGAE))__
+- [28] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院二区, IF=4.1)  __(学生一作导师通讯，学生: 计算机技术专业, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpatialCVGAE))__
 
-- [27] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
+- [27] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
   
 - [26] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/mbVDiT))__
 
