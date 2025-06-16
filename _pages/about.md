@@ -121,15 +121,15 @@ redirect_from:
   
 - [26] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/mbVDiT))__
 
-- [25] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业)__
+- [25] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对抗学习 [GitHub](https://github.com/wenwenmin/STG3Net))__
 
-- [24] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业)__
+- [24] D Fang, F Zhu, D Xie, __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
 
-- [23] __Wenwen Min*__, Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%)
+- [23] __Wenwen Min*__, Z Wang, F Zhu, T Xu, S Wang scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生二作导师通讯，学生: 计算机技术, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scASDC))__
 
 - [22] Zhiceng Shi, S. L. Xue, F. Zhu and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业专业)__
  
-- [21] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业)__
+- [21] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/stMCDI))__
 
 - [20] L Huang, X Liu, S Wang, __Wenwen Min*__. Masked adversarial neural network for cell type deconvolution in spatial transcriptomics. __<u> BIBM 2024 </u>__ (CCF B类会议) __(学生一作导师通讯，学生: 计算机软件与理论专业)__
 
