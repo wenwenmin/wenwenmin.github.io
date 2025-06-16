@@ -91,23 +91,16 @@ redirect_from:
 #同等贡献作者，*通讯作者
 
 ### 🔥 2025
-- [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%)[学生一作导师通讯，学生研一投稿]
-
-- [38] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区)
-
-- [37] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5)
-
-- [36] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊)
-
-- [35] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊)
-
-- [34] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊)
-
-- [33] __Wenwen Min*__, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊)
-- [32] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
-
-- [31] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2)
-
+- [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%) __[学生一作导师通讯，学生研二投稿（计算机技术专业）]__
+- [38] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2) __[学生一作导师通讯，学生研一投稿（人工智能专业）]__
+- [37] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊) __[学生一作导师通讯，学生研一投稿（人工智能专业）]__
+- [36] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __[学生一作导师通讯，学生研二投稿（计算机应用技术）]__
+- [35] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __[学生一作导师通讯，学生研二投稿（计算机应用技术）]__
+- [34] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [33] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区)
+- [32] __Wenwen Min*__, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊)
+- [31] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+  
 ### 🔥 2024
 
 - [30] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
