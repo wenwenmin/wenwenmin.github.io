@@ -93,11 +93,11 @@ redirect_from:
 ### 🔥 2025
 - [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HISTEX))__
   
-- [38] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络)__
+- [38] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scstGCN))__
   
-- [37] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习)__ 
+- [37] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMCL))__ 
 
-- [36] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：Transformer)__ 
+- [36] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：Transformer [GitHub](https://github.com/wenwenmin/VTrans))__ 
 
 - [35] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化)__ 
 
