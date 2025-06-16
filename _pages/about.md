@@ -99,7 +99,7 @@ redirect_from:
 
 - [36] X Shi, F Zhu, __Wenwen Min*__. VTrans: A VAE-based Pre-trained Transformer Method for Microbiome Data Analysis. __<u> Journal of Computational Biology 2025 </u>__ (领域顶刊) __(学生一作导师通讯, 学生：人工智能专业, 方法领域：Transformer [GitHub](https://github.com/wenwenmin/VTrans))__ 
 
-- [35] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化)__ 
+- [35] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化 [GitHub](https://github.com/wenwenmin/L0GSNTD))__  
 
 - [34] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化 [GitHub](https://github.com/wenwenmin/SGNCP))__ 
 
@@ -111,15 +111,15 @@ redirect_from:
 
 ### 🔥 2024
 
-- [30] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业)__
+- [30] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
   
-- [29] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__, https://doi.org/10.1016/j.csbj.2024.11.041 (中科院JCR2区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术专业)__
+- [29] Jinyun Niu, Fangfang Zhu, TaoSheng Xu, Shunfang Wang and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__, https://doi.org/10.1016/j.csbj.2024.11.041 (中科院JCR2区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/STMVGAE))__
 
-- [28] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院JCR2区, IF=4.1)  __(学生一作导师通讯，学生: 计算机技术专业)__
+- [28] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院JCR2区, IF=4.1)  __(学生一作导师通讯，学生: 计算机技术专业, 专业方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpatialCVGAE))__
 
-- [27] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [27] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
   
-- [26] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业)__
+- [26] X Shi, F Zhu, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/mbVDiT))__
 
 - [25] D Fang, F Zhu, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业)__
 
