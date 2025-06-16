@@ -91,7 +91,7 @@ redirect_from:
 #同等贡献作者，*通讯作者
 
 ### 🔥 2025
-- [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%)
+- [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%)[学生一作导师通讯，学生研一投稿]
 
 - [38] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区)
 
@@ -230,6 +230,14 @@ redirect_from:
 - 闵文文，吴佳欣等. 基于深度学习的脑肿瘤智能辅助诊疗平台 V1.0
 - 闵文文，史志层等. 基于深度学习的脑肿瘤智能辅助诊疗平台 V1.0
 - 闵文文，牛晋云等. 一种基于图深度学习的空间转录组学数据聚类软件 V1.0
+
+
+
+
+
+
+
+
 
 
 <!-- 下面的内容被Markdown 注释 -->
