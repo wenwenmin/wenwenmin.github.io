@@ -93,7 +93,7 @@ redirect_from:
 ### 🔥 2025
 - [39] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 9%) __[学生一作导师通讯，学生研二投稿（计算机技术专业）]__
   
-- [38] S Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [38] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院JCR1区, IF=9.5)
   
 - [37] Z Shi, F Zhu, , __Wenwen Min*__. Inferring Multi-slice Spatially Resolved Gene Expression from H&E-stained Histology Images with STMCL.  __<u> Methods </u>__, 2025 (中科院JCR3区, IF=4.2) __[学生一作导师通讯，学生研一投稿（人工智能专业）]__
 
