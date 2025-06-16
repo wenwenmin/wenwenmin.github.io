@@ -101,13 +101,13 @@ redirect_from:
 
 - [35] W Yang, __Wenwen Min*__. Graph regularized sparse nonnegative Tucker decomposition with L0-constraints for unsupervised learning. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化)__ 
 
-- [34] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化)__ 
+- [34] W Yang, __Wenwen Min*__. Sparse nonnegative CP decomposition with graph regularization and L0-constraints for clustering. __<u> Chinese Journal of Electronics 2025 </u>__ (CCF T1, T1为最顶级期刊) __(学生一作导师通讯, 学生：计算机应用技术, 方法领域：机器学习优化 [GitHub](https://github.com/wenwenmin/SGNCP))__ 
 
-- [33] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5)
+- [33] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院JCR1区, IF=9.5) __(方法领域：张量分解 [GitHub](https://github.com/Jinyu2019/sTPLS))__
 
-- [32] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区)
+- [32] __Wenwen Min*__, X Shi, et. al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. __<u> Tsinghua Science and Technology 2025 </u>__ (中科院一区) __(学生二作导师通讯, 学生：计算机技术专业, 方法领域：Transformer [GitHub](https://github.com/wenwenmin/SpaViT))__
 
-- [31] __Wenwen Min*__, D Fang, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊)
+- [31] __Wenwen Min*__, D Fang#, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊) __(学生并一作导师通讯, 学生：计算机应用技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))__
 
 ### 🔥 2024
 
