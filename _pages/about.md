@@ -99,8 +99,10 @@ redirect_from:
 #同等贡献作者，*通讯作者
 
 ### 🔥 2025
+- [42] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, Advanced Science 2025 (Major Revision)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
+  
 - [41] SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics
-Communications Biology 2025, Under review 2nd round (Nature旗下期刊, 中科院一区)
+Communications Biology 2025, Under review 2nd round (Nature旗下期刊, 中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
 
 - [40] L Huang, X Liu, F Zhuand __Wenwen Min*__. SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder
 PLOS Computational Biology 2025 (领域顶刊, 中科院二区，CCF B) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaDAMA))__
