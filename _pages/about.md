@@ -104,7 +104,7 @@ redirect_from:
 - [42] SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics,
   Communications Biology 2025, Under review 2nd round (Nature旗下期刊, 中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
 
-- [41] J Zhao and__Wenwen Min*__. SpaICL: Image-Guided Curriculum Strategy-Based Graph Contrastive Learning for Spatial Transcriptomics Clustering.
+- [41] J Zhao and __Wenwen Min*__. SpaICL: Image-Guided Curriculum Strategy-Based Graph Contrastive Learning for Spatial Transcriptomics Clustering.
  __<u> Briefings in Bioinformatics </u>__ (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaICL))__
   
 - [40] L Huang, X Liu, F Zhuand __Wenwen Min*__. SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder,
