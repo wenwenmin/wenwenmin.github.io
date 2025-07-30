@@ -100,8 +100,8 @@ redirect_from:
 
 ### 🔥 2025
 
-- [44] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (Major Revision，中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
-- 
+- [44] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (Major Revision，中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
+  
 - [43] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, Advanced Science 2025 (Major Revision)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
 - [42] SpaCross: Deciphering Spatial Structures and Correcting Batch Effects of Multi‑slice Spatially Resolved Transcriptomics,
