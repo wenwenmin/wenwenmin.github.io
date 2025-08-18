@@ -99,6 +99,7 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
+<!--
 ## 五、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
 
@@ -240,8 +241,6 @@ redirect_from:
 - [01] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
-
-<!--
 -->
 
 ## 六、专利和软著
