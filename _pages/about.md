@@ -55,10 +55,10 @@ redirect_from:
 ## 三、学术论文 
 
 - 谷歌学术主页: [Full List at My Google Scholar](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) 
-
-<!--
 - ORCID主页: [My ORCID](https://orcid.org/0000-0002-2558-2911)
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
+
+<!--
 -->
 
 ## 四、学生培养
@@ -151,11 +151,11 @@ redirect_from:
 
 - [25] D Fang, ..., __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对抗学习 [GitHub](https://github.com/wenwenmin/STG3Net))__
 
-- [24] D Fang, ..., __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
+- [24] D Fang and __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
 
 - [23] __Wenwen Min*__, Z Wang, et. al. scASDC: Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生二作导师通讯，学生: 计算机技术, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scASDC))__
 
-- [22] Zhiceng Shi, ...,  and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业专业, 方法领域：Transformer+大模型 [GitHub](https://github.com/wenwenmin/HisToSGE))__
+- [22] Zhiceng Shi and __Wenwen Min*__. High-Resolution Spatial Transcriptomics from Histology Images using HisToSGE with Pathology Image Large Model. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业专业, 方法领域：Transformer+大模型 [GitHub](https://github.com/wenwenmin/HisToSGE))__
  
 - [21] Xiaoyu Li, __Wenwen Min*__, Shunfang Wang, Changmiao Wang and Taosheng Xu. stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/stMCDI))__
 
@@ -163,9 +163,9 @@ redirect_from:
 
 - [19] Donghai Fang, Yichen Gao, Zhaoying Wang, F. Z. and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
 
-- [18] Zhiceng Shi, ..., and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 人工智能专业专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STco))__
+- [18] Zhiceng Shi and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 人工智能专业专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STco))__
 
-- [17] Shuailin Xue, ..., and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/stEnTrans))__
+- [17] Shuailin Xue and __Wenwen Min*__. stEnTrans: Transformer-based deep learning for spatial transcriptomics enhancement. __<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/stEnTrans))__
   
 - [16] F. Yang, __Wenwen Min*__. Globally Convergent Accelerated Algorithms for Multilinear Sparse Logistic Regression with L0-Constraints. __<u>International Conference on Intelligent Computing (ICIC)}</u>__, 88-99, 2024 (CCF C类会议) __(学生一作导师通讯，学生: 计算机应用技术, 方法领域：机器学习优化 [GitHub](https://github.com/wenwenmin/stEnTrans))__
 
