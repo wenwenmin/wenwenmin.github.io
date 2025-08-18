@@ -99,7 +99,7 @@ redirect_from:
 - 2024级，王*毅（进行中）
 - 2024级，李*奥（进行中）
 
-<!--
+
 ## 五、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
 
@@ -139,17 +139,17 @@ redirect_from:
 
 ### 🔥 2024
 
-- [30] Xiaoyu Li, ..., and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
+- [30] Xiaoyu Li and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
   
-- [29] Jinyun Niu, ..., and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__ (中科院二区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/STMVGAE))__
+- [29] Jinyun Niu and __Wenwen Min*__. Deep Clustering Representation for Spatially Resolved Transcriptomics Data via Multi-view Variational Graph Auto-Encoders with Consensus Clustering. __<u> Computational and Structural Biotechnology Journal 2024</u>__ (中科院二区, IF=4.4) __(学生一作导师通讯，学生: 计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/STMVGAE))__
 
 - [28] J Niu, F Zhu, D Fang, __Wenwen Min*__. SpatialCVGAE: Consensus Clustering Improves Spatial Domain Identification of Spatial Transcriptomics using VGAE. __<u> Interdisciplinary Sciences: Computational Life Sciences 2024  </u>__ (中科院二区, IF=4.1)  __(学生一作导师通讯，学生: 计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpatialCVGAE))__
 
 - [27] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
   
-- [26] X Shi, ..., __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/mbVDiT))__
+- [26] X Shi, __Wenwen Min*__. Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 人工智能专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/mbVDiT))__
 
-- [25] D Fang, ..., __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对抗学习 [GitHub](https://github.com/wenwenmin/STG3Net))__
+- [25] D Fang, __Wenwen Min*__. Multi-Slice Spatial Transcriptomics Data Integration Analysis with STG3Net. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对抗学习 [GitHub](https://github.com/wenwenmin/STG3Net))__
 
 - [24] D Fang and __Wenwen Min*__. Masked Graph Autoencoders with Contrastive Augmentation for Spatially Resolved Transcriptomics Data. __<u> BIBM 2024 </u>__ (CCF B类会议, 接收率20%) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
 
@@ -161,7 +161,7 @@ redirect_from:
 
 - [20] L Huang, X Liu, S Wang, __Wenwen Min*__. Masked adversarial neural network for cell type deconvolution in spatial transcriptomics. __<u> BIBM 2024 </u>__ (CCF B类会议) __(学生一作导师通讯，学生: 计算机软件与理论专业, 方法领域：深度对抗学习 [GitHub](https://github.com/wenwenmin/MACD))__
 
-- [19] Donghai Fang, Yichen Gao, Zhaoying Wang, F. Z. and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
+- [19] Donghai Fang and __Wenwen Min*__. Contrastive Masked Graph Autoencoders for Spatial Transcriptomics Data Analysis. __<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STMGAC))__
 
 - [18] Zhiceng Shi and __Wenwen Min*__. Spatial Gene Expression Prediction from Histology Images with STco.__<u> ISBRA 2024 </u>__ (CCF C类会议) __(学生一作导师通讯，学生: 人工智能专业专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/STco))__
 
@@ -241,6 +241,8 @@ redirect_from:
 - [01] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
+
+<!--
 -->
 
 ## 专利和软著
