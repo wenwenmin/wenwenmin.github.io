@@ -69,7 +69,8 @@ redirect_from:
   - 良好的编程、数学、英语能力
   - 目前暂时不考虑招生外籍学生
 - <font color="red"> 感兴趣的同学可以给我邮件(wenwen.min@qq.com)；邮件内容包括如下信息：个人简历+本科成绩单+考研成绩+复试上机成绩。 </font>
-  
+
+
 ### 在读学生情况（2024/12/20）
 
 ✨__2022__
@@ -131,6 +132,7 @@ redirect_from:
 
 - [31] __Wenwen Min*__, D Fang#, J Chen, S Zhang. SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (CCF B类期刊, 领域顶刊) __(学生并一作导师通讯, 学生：计算机应用技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))__
 
+<!--
 ### 🔥 2024
 
 - [30] Xiaoyu Li, Fangfang Zhu and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
@@ -235,7 +237,7 @@ redirect_from:
 - [01] __Wenwen Min__, Juan Liu*, Fei Luo, Shihua Zhang*.
   A novel two-stage method for identifying microRNA- gene regulatory modules in breast cancer.
     __<u>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</u>__, 2015 (CCF B类会议, 接收率19%）
-
+-->
 
 ## 六、专利和软著
 ### 专利
