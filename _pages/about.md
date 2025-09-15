@@ -101,7 +101,7 @@ redirect_from:
 
 - [45] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (Minor Revision，中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
   
-- [44] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (导师独立完成，无学生参与)
+- [44] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (CCF B, 导师独立完成，无学生参与)
   
 - [43] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science </u>__ 2025 (IF=14.3, 中科院一区) (学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
