@@ -67,7 +67,7 @@ redirect_from:
 ## 四、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
 
-- [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
+- [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch)__
   
 - [02] SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics,
   __<u> Communications Biology </u>__ 2025 (Nature小子刊, 中科院一区, IF=5.3)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
@@ -82,8 +82,8 @@ redirect_from:
 
 - [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
-- [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (领域顶刊, 中科院二区，CCF B) __(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))__
-  - 
+- [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
+  
 - [08] SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder,
   __<u> PLOS Computational Biology 2025 </u>__ (领域顶刊, 中科院二区，CCF B) __(唯一通讯作者, 方法领域：对抗网络 [GitHub](https://github.com/wenwenmin/SpaDAMA))__
 
