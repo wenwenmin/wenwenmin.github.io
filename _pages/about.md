@@ -67,7 +67,7 @@ redirect_from:
 ## 四、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
 
-- [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch)__
+- [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch)
   
 - [02] SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics,
   __<u> Communications Biology </u>__ 2025 (Nature小子刊, 中科院一区, IF=5.3)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
