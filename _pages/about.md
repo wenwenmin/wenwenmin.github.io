@@ -66,20 +66,26 @@ redirect_from:
 
 ## 四、代表作
 ### 计算领域期刊和会议
+- [01] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm. __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
+  35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/9893402)] <br>
+  
+- [02] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 33(2):536-550, 2021 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/8782829)]<br>
+
+- [03] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__, 33(8):3842-3856, 2022 (中科院一区，CCF B类期刊, IF=14.255) [[下载](https://ieeexplore.ieee.org/document/9350193)]<br>
+
+- [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
+
+
+
+- [10] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
+
+
+### 人工智能生物医学领域
 - [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) __(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
 - [02] SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics,
   __<u> Communications Biology </u>__ 2025 (Nature小子刊, 中科院一区, IF=5.3)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
-
-- [03] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm. __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
-  35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/9893402)] <br>
-  
-- [04] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
-  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 33(2):536-550, 2021 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/8782829)]<br>
-
-- [05] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__, 33(8):3842-3856, 2022 (中科院一区，CCF B类期刊, IF=14.255) [[下载](https://ieeexplore.ieee.org/document/9350193)]<br>
-
-- [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
 - [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__(领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
   
@@ -88,12 +94,7 @@ redirect_from:
 
 - [09] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*.  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers.  __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 (领域顶刊, 中科院二区，CCF B, IF=4.779)
-
-- [10] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
-
-
-### 人工智能生物医学领域
-    
+  
 <!--
 ## 四、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
