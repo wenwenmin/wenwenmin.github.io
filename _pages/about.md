@@ -74,11 +74,15 @@ redirect_from:
 
 - [03] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__, 33(8):3842-3856, 2022 (中科院一区，CCF B类期刊, IF=14.255) [[下载](https://ieeexplore.ieee.org/document/9350193)]<br>
 
-- [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
+- [04] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
+- [05] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery.
+    __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
+  15(3):944-953, 2018 (CCF B类期刊, IF=4.5)
 
+- [06] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*. A two-stage method to identify joint modules from matched microRNA and mRNA expression data. __<u>IEEE Transactions on Nanobioscience</u>__, 15(4):362-370, 2016
 
-- [10] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
+- [07] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
 
 
 ### 人工智能生物医学领域
