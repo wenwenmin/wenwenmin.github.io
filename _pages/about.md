@@ -85,6 +85,10 @@ redirect_from:
 
 - [08] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
 
+- [09] Li Yu#, __Wenwen Min#__, Shunfang Wang\*. Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
+  __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
+  2024 (中科院一区, CCF C类期刊, IF=7.7) __(博学生, 方法领域：医学图像分割 [GitHub](https://github.com/LiYu51/BG-Net))__
+
 ### 人工智能生物医学领域
 - [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) __(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
