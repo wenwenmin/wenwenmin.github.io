@@ -81,7 +81,7 @@ redirect_from:
 
 - [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
-- [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__, DOI: 10.1371/journal.pcbi.1012881 (领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
+- [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__(领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
   
 - [08] SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder,
   __<u> PLOS Computational Biology 2025 </u>__ (领域顶刊, 中科院二区，CCF B) __(唯一通讯作者, 方法领域：对抗网络 [GitHub](https://github.com/wenwenmin/SpaDAMA))__
