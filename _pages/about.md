@@ -81,7 +81,7 @@ redirect_from:
 
 - [06] __Wenwen Min__, Juan Liu\*, Fei Luo, Shihua Zhang*. A two-stage method to identify joint modules from matched microRNA and mRNA expression data. __<u>IEEE Transactions on Nanobioscience</u>__, 15(4):362-370, 2016
 
-- [07] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (中科院一区， IF=8)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
+- [07] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (中科院一区， IF=8)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
 
 - [08] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
 
@@ -91,12 +91,12 @@ redirect_from:
 - [02] SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics,
   __<u> Communications Biology </u>__ 2025 (Nature小子刊, 中科院一区, IF=5.3)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
 
-- [07] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__(领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
+- [03] SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics.  __<u> PLOS Computational Biology 2025 </u>__(领域顶刊, 中科院二区，CCF B) (唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaMask))
   
-- [08] SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder,
+- [04] SpaDAMA: Improving Cell-Type Composition Inference in Spatial Transcriptomics with Domain-Adversarial Masked Autoencoder,
   __<u> PLOS Computational Biology 2025 </u>__ (领域顶刊, 中科院二区，CCF B) __(唯一通讯作者, 方法领域：对抗网络 [GitHub](https://github.com/wenwenmin/SpaDAMA))__
 
-- [09] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*.  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers.  __<u>PLoS Computational Biology</u>__, 
+- [05] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*.  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers.  __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 (领域顶刊, 中科院二区，CCF B, IF=4.779)
   
 <!--
