@@ -64,8 +64,6 @@ redirect_from:
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
 <!--
--->
-
 ## 四、学生培养
 
 ### 在读学生情况（2024/12/20）
@@ -402,4 +400,6 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
   - "Multimodal attention-based variational autoencoder for clinical risk prediction" with 李晓宇（学硕2022级）
 - 2022/09/10: the paper "Structured Sparse Non-negative Matrix Factorization with L20-Norm" is accepted as a regular paper in IEEE TKDE (CCF A)
 - 2021/12/25: Joined Yunnan University.
+-->
+
 -->
