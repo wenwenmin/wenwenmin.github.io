@@ -76,9 +76,9 @@ redirect_from:
   35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/9893402)] <br>
   
 - [04] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
-  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 33(2):536-550, 2021 (中科院一区, CCF A类期刊, IF=10.4) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
+  __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 33(2):536-550, 2021 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/8782829)]<br>
 
-- [05] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__, 33(8):3842-3856, 2022 (中科院一区，CCF B类期刊, IF=14.255) [[URL](https://ieeexplore.ieee.org/document/9350193),PDF,Data,Code]<br>
+- [05] __Wenwen Min__, Xiang Wan, Tsung-Hui Chang, Shihua Zhang*. A Novel Sparse Graph-Regularized Singular Value Decomposition Model for Gene Co-Expression Pattern Discovery. __<u>IEEE Transactions on Neural Networks and Learning Systems</u>__, 33(8):3842-3856, 2022 (中科院一区，CCF B类期刊, IF=14.255) [[下载](https://ieeexplore.ieee.org/document/9350193)]<br>
 
 - [06] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
