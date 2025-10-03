@@ -77,9 +77,9 @@ redirect_from:
 - [04] Weighted sparse partial least squares for joint sample and feature selection. __<u> IEEE Transactions on Computational Biology and Bioinformatics </u>__ 2025 (中科院二区， CCF B类期刊) (一作+通讯作者, 方法领域：机器学习）
 
 - [05] Network-regularized sparse logistic regression models for clinical risk prediction and biomarker discovery. __<u>IEEE/ACM Transactions on Computational Biology and Bioinformatics</u>__,
-  15(3):944-953, 2018 (CCF B类期刊, IF=4.5)
+  15(3):944-953, 2018 (CCF B类期刊, IF=4.5) (一作, 方法领域：机器学习）
 
-- [06] A two-stage method to identify joint modules from matched microRNA and mRNA expression data. __<u>IEEE Transactions on Nanobioscience</u>__, 15(4):362-370, 2016
+- [06] A two-stage method to identify joint modules from matched microRNA and mRNA expression data. __<u>IEEE Transactions on Nanobioscience</u>__, 15(4):362-370, 2016 (一作, 方法领域：机器学习）
 
 - [07] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (中科院一区， IF=8)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
 
@@ -87,7 +87,7 @@ redirect_from:
 
 - [09] Boundary-Aware Gradient Operator Network for Medical Image Segmentation.
   __<u>IEEE Journal of Biomedical and Health Informatics</u>__,
-  2024 (中科院一区, CCF C类期刊, IF=7.7) __(博学生, 方法领域：医学图像分割 [GitHub](https://github.com/LiYu51/BG-Net))__
+  2024 (中科院一区, CCF C类期刊, IF=7.7) __(一作, 方法领域：医学图像分割 [GitHub](https://github.com/LiYu51/BG-Net))__
 
 - [10] Precise facial landmark detection by reference heatmap transformer. __<u> IEEE Transactions on Image Processing</u>__ (中科院一区, CCF A类期刊, IF=13.7)
 
