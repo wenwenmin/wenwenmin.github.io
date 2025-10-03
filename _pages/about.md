@@ -98,7 +98,26 @@ redirect_from:
 
 - [05] __Wenwen Min__, Tsung-Hui Chang, Shihua Zhang*, Xiang Wan*.  TSCCA: A tensor sparse CCA method for detecting microRNA-gene patterns from multiple cancers.  __<u>PLoS Computational Biology</u>__, 
   17(6):e1009044, 2021 (领域顶刊, 中科院二区，CCF B, IF=4.779)
+
+- [06] J Zhao and __Wenwen Min*__. SpaICL: Image-Guided Curriculum Strategy-Based Graph Contrastive Learning for Spatial Transcriptomics Clustering.
+ __<u> Briefings in Bioinformatics 2025 </u>__ (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图对比学习 [GitHub](https://github.com/wenwenmin/SpaICL))__
+
+- [07] Shuailin Xue, F Zhu, J Chen, __Wenwen Min*__. Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scstGCN))__
+
+
+- [08] J Chen*, __Wenwen Min*__. sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院一区, IF=9.5) __(方法领域：张量分解 [GitHub](https://github.com/Jinyu2019/sTPLS))__
+
+
+- [09] Xiaoyu Li and __Wenwen Min*__. SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
   
+- [10] __Wenwen Min*__, Zhiceng Shi, Jun Zhang, Jun Wan and Changmiao Wang. Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024 </u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
+
+- [11] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Edge-group sparse PCA for network-guided high dimensional data analysis.__<u>Bioinformatics</u>__, 34(20):3479-3487, 2018
+  (CCF B类期刊, IF=6.931)
+
+- [12] Weihua Zheng#, __Wenwen Min#__, Shunfang Wang\*. TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
+  __<u>Bioinformatics</u>__, 39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
+
 <!--
 ## 四、主要论文(一作+通讯)
 #同等贡献作者，*通讯作者
