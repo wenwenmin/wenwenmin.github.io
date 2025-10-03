@@ -263,6 +263,9 @@ redirect_from:
 - 薛帅林 (指导教师：闵文文), 互联网加竞赛 (进省赛), 项目名称：“图谱云构”— 组织图像引导的超分辨率空间基因表达智能重建平台，2025
 - 方东海 (指导教师：闵文文), 互联网加竞赛 (进省赛), 项目名称：“图谱空间，智绘未来”--空间转录组学AI可视分析云平台，2025
 
+
+-->
+
 <!--
 组内图片的注释
 ![MinLab_fig1](https://github.com/wenwenmin/wenwenmin.github.io/blob/master/images/MinLab_fig1.jpg?raw=true)
@@ -402,4 +405,4 @@ You can also find my articles on [My Google Scholar Profile](https://scholar.goo
 - 2021/12/25: Joined Yunnan University.
 -->
 
--->
+
