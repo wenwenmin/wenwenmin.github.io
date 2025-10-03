@@ -64,8 +64,7 @@ redirect_from:
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
 
-## 四、主要论文(一作+通讯)
-#同等贡献作者，*通讯作者
+## 四、代表作
 
 - [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) __(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
@@ -94,6 +93,8 @@ redirect_from:
 
     
 <!--
+## 四、主要论文(一作+通讯)
+#同等贡献作者，*通讯作者
 ### 🔥 2025
 
 - [45] Geometry-informed Multimodal Fusion Network for Enhancing High-density Spatial Transcriptomics from Histology Images. Engineering Applications of Artificial Intelligence 2025 (Minor Revision，中科院一区)__(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/HisHRST))__
