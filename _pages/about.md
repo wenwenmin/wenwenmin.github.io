@@ -65,7 +65,7 @@ redirect_from:
 
 
 ## 四、代表作
-
+### 计算领域期刊和会议
 - [01] SpaBatch: Deep learning-based cross-slice integration and 3D spatial domain identification in spatial transcriptomics, __<u> Advanced Science 2025 </u>__  (中科院一区, IF=14.3) __(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaBatch))__
   
 - [02] SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics,
@@ -91,6 +91,8 @@ redirect_from:
 
 - [10] Shuailin Xue, Changmiao Wang, Xiaomao Fan and __Wenwen Min*__. Inferring Super-Resolved Gene Expression by Integrating Histology Images and Spatial Transcriptomics with HISTEX. __<u> MICCAI 2025 </u>__ (CCF B, 医学图像计算顶会，MICCAI2025 Top 2%) __(Best Paper, 唯一通讯作者, 方法领域：注意力机制 [GitHub](https://github.com/wenwenmin/HISTEX))__
 
+
+### 人工智能生物医学领域
     
 <!--
 ## 四、主要论文(一作+通讯)
