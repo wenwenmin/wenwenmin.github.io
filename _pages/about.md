@@ -114,8 +114,7 @@ redirect_from:
   
 - [09] Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024 </u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
 
-- [10] Edge-group sparse PCA for network-guided high dimensional data analysis.__<u>Bioinformatics</u>__, 34(20):3479-3487, 2018
-  (CCF B类期刊, IF=6.931) (唯一第一作者)
+- [10] Edge-group sparse PCA for network-guided high dimensional data analysis. __<u>Bioinformatics</u>__, 34(20):3479-3487, 2018 (CCF B类期刊, IF=6.931) (唯一第一作者)
 
 
 
