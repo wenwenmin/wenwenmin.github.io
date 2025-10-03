@@ -110,17 +110,14 @@ redirect_from:
 
 - [07] Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN.  __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbae630 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯, 学生：计算机技术专业, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/scstGCN))__
 
-- [08] sTPLS: identifying common and specific correlated patterns under multiple biological conditions. __<u> Briefings in Bioinformatics 2025 </u>__, DOI: 10.1093/bib/bbaf195 (CCF B类期刊, 中科院一区, IF=9.5) __(方法领域：张量分解 [GitHub](https://github.com/Jinyu2019/sTPLS))__
-
-- [09] SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
+- [08] SpaDiT: Diffusion Transformer for Spatial Gene Expression Prediction using scRNA-seq. __<u> Briefings in Bioinformatics 2024</u>__, DOI: 10.1093/bib/bbae571 (CCF B类期刊, 中科院一区, IF=9.5) __(学生一作导师通讯，学生: 计算机应用技术专业, 方法领域：深度扩散模型 [GitHub](https://github.com/wenwenmin/SpaDiT))__
   
-- [10] Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024 </u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
+- [09] Multimodal contrastive learning for spatial gene expression prediction using histology images. __<u> Briefings in Bioinformatics 2024 </u>__, DOI: 10.1093/bib/bbae551 (CCF B类期刊, 中科院一区, IF=9.5) __(学生二作导师通讯, 学生：人工智能专业, 方法领域：深度对比学习 [GitHub](https://github.com/wenwenmin/mclSTExp))__
 
-- [11] Edge-group sparse PCA for network-guided high dimensional data analysis.__<u>Bioinformatics</u>__, 34(20):3479-3487, 2018
+- [10] Edge-group sparse PCA for network-guided high dimensional data analysis.__<u>Bioinformatics</u>__, 34(20):3479-3487, 2018
   (CCF B类期刊, IF=6.931)
 
-- [12] TsImpute: An accurate two-step imputation method for single-cell RNA-seq data.
-  __<u>Bioinformatics</u>__, 39(12):btad731, 2023 (CCF B类期刊, IF=5.8)
+
 
 <!--
 ## 四、主要论文(一作+通讯)
