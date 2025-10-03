@@ -73,7 +73,7 @@ redirect_from:
   __<u> Communications Biology </u>__ 2025 (Nature小子刊, 中科院一区, IF=5.3)__(唯一通讯作者, 方法领域：图神经网络 [GitHub](https://github.com/wenwenmin/SpaCross))__
 
 - [03] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm. __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
-  35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[URL](https://ieeexplore.ieee.org/document/9893402),PDF,Data,Code] <br>
+  35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/9893402)] <br>
   
 - [04] __Wenwen Min__, Juan Liu\*, Shihua Zhang*. Group-sparse SVD Models via L0 and L1-norm Penalties and Their Applications in Biological Data.
   __<u>IEEE Transactions on Knowledge and Data Engineering</u>__, 33(2):536-550, 2021 (中科院一区, CCF A类期刊, IF=10.4) [[URL](https://ieeexplore.ieee.org/document/8782829),PDF,Data,Code]<br>
