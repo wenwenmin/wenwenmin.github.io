@@ -23,7 +23,9 @@ redirect_from:
 - 闵文文，云南大学信息学院，计算机科学与工程系副教授，博士生导师，云南大学“东陆人才计划-青年学者”。
 <!--
 - 2017年毕业于武汉大学计算机学院，获工学博士学位，2019~2021在香港中文大学（深圳）从事博士后研究工作，2021年12月入选云南大学“东陆青年学者”引进人才，2022年入选云南省“兴滇英才支持计划”青年人才。
+-->
 <!-- 目前担任中国计算机学会生物信息学专委会委员，中国生物信息学学会 (筹)网络生物学专委会委员，中国运筹学会计算系统生物学分会理事，Interdisciplinary Sciences: Computational Life Sciences杂志（中科院二区）青年编辑，国家自然科学基金青年、面上项目函评专家等。 闵老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量优化等）及其在生物医学大数据中的应用研究。<br> -->
+<!--
 - 闵老师长期从事人工智能算法（图神经网络、深度扩散模型、Transformer模型、对比学习、基于掩码机制的自监督学习、单细胞/空转大模型、矩阵张量优化等）及其应用研究。
 - __学术工作__：国家自然科学基金项目评审专家，教育部学位中心评审专家，计算机期刊 (IEEE TPAMI、IEEE TKDE、IEEE TCYB、IEEE TNNLS、IEEE TMI、IEEE TSP、IEEE TII、IEEE TMM、IEEE JHBI、IEEE TCSVT、IEEE TETCI、IEEE IoT、IEEE TBME、IEEE TCSS、IEEE SMCA、IEEE BigData、JAS、EAAI、PR、ESWA、Neural Networks、Medical Image Analysis、Information Sciences、KBS、中国科学等)，生信期刊 (Nature Methods、Nature Computational Science、Nature Communications、Journal of the American Statistical Association、NAR、AS、CB、PLOS CB、BIB、Bioinformatics、IEEE TCBB、INSC、Journal of Chemical Information and Modeling等) 审稿专家。
 -->
