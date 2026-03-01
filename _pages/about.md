@@ -67,7 +67,7 @@ redirect_from:
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
 ## 四、最新成果 
-- [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. CVPR 2026 (Oral ~5%, CCF A，学生一作本人通讯) <br>
+- [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. AAAI 2026 (Oral ~5%, CCF A，学生一作本人通讯) <br>
 
 - [02] Zhiceng Shi, Changmiao Wang, Jun Wan, __Wenwen Min*__. Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference. CVPR 2026 (CCF A，学生一作本人通讯) <br>
 
