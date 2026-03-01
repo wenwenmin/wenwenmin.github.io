@@ -67,11 +67,11 @@ redirect_from:
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
 ## 四、最新成果 
-- [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. AAAI 2026 (Oral ~5%, CCF A，学生一作本人通讯) <br>
+- [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. AAAI 2026 (Oral ~5%, CCF A，学生一作本人通讯) 
 
-- [02] Zhiceng Shi, Changmiao Wang, Jun Wan, __Wenwen Min*__. Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference. CVPR 2026 (CCF A，学生一作本人通讯) <br>
+- [02] Zhiceng Shi, Changmiao Wang, Jun Wan, __Wenwen Min*__. Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference. CVPR 2026 (CCF A，学生一作本人通讯) 
 
-- [03] Donghai Fang, Yongheng Li, Zhen WANG*, Yuansong Zeng*, Shihua Zhang*, __Wenwen Min*__. Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images. CVPR 2026 (CCF A，学生一作本人通讯) <br>
+- [03] Donghai Fang, Yongheng Li, Zhen Wang*, Yuansong Zeng*, __Wenwen Min*__. Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images. CVPR 2026 (CCF A，学生一作本人通讯) 
 
 ## 五、代表成果
 ### 计算领域期刊和会议
