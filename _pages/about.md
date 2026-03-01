@@ -66,8 +66,14 @@ redirect_from:
 - ORCID主页: [My ORCID](https://orcid.org/0000-0002-2558-2911)
 - ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
+## 四、最新成果 
+- [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. CVPR 2026 (Oral ~5%, CCF A，学生一作本人通讯) <br>
 
-## 四、代表作
+- [02] Zhiceng Shi, Changmiao Wang, Jun Wan, __Wenwen Min*__. Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference. CVPR 2026 (CCF A，学生一作本人通讯) <br>
+
+- [03] Donghai Fang, Yongheng Li, Zhen WANG*, Yuansong Zeng*, __Wenwen Min*__. Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images. CVPR 2026 (CCF A，学生一作本人通讯) <br>
+
+## 五、代表成果
 ### 计算领域期刊和会议
 - [01] __Wenwen Min*__, Taosheng Xu, Xiang Wan, Tsung-Hui Chang. Structured Sparse Non-negative Matrix Factorization with L20-Norm. __<u>IEEE Transactions on Knowledge and Data Engineering</u>__,
   35(8):8584-8595, 2023 (中科院一区, CCF A类期刊, IF=10.4) [[下载](https://ieeexplore.ieee.org/document/9893402)] <br>
