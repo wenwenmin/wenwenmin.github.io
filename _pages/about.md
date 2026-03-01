@@ -71,7 +71,7 @@ redirect_from:
 
 - [02] Zhiceng Shi, Changmiao Wang, Jun Wan, __Wenwen Min*__. Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference. CVPR 2026 (CCF A，学生一作本人通讯) 
 
-- [03] Donghai Fang, Yongheng Li,  Zhen Wang* Zhen Wang*, Yuansong Zeng*, __Wenwen Min*__. Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images. CVPR 2026 (CCF A，学生一作本人通讯) 
+- [03] Donghai Fang, Yongheng Li,  Zhen Wang\*, Yuansong Zeng\*, __Wenwen Min\*__. Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images. CVPR 2026 (CCF A，学生一作本人通讯) 
 
 ## 五、代表成果
 ### 计算领域期刊和会议
