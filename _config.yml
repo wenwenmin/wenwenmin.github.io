@@ -29,11 +29,11 @@ author:
   bio              : "医学人工智能"
   location         : "Kunming, Yunnan, China"
   employer         : "Yunnan University"
-  uri              : https://github.com/wenwenmin 
+ # uri              : https://github.com/wenwenmin 
   email            : minwenwen@aliyun.com
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
+ # googlescholar    : "https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en"
  # researchgate     : "https://www.researchgate.net/profile/Wenwen-Min/research"
  # orcid            : "https://orcid.org/0000-0002-2558-2911" 
  # Github           : "https://github.com/wenwenmin"
