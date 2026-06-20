@@ -64,7 +64,6 @@ redirect_from:
 
 - 谷歌学术主页: [Full List at My Google Scholar](https://scholar.google.com/citations?user=0Uy0GnoAAAAJ&hl=en) 
 - ORCID主页: [My ORCID](https://orcid.org/0000-0002-2558-2911)
-- ResearchGate主页: [My ResearchGate](https://www.researchgate.net/profile/Wenwen-Min)
 
 ## 四、最新成果 
 - [01] Shuailin Xue, Jun Wan, Lihua Zhang, __Wenwen Min*__. SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. AAAI 2026 (Oral ~5%, CCF A，学生一作本人通讯) 
